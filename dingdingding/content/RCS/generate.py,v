@@ -1,0 +1,116 @@
+head	1.5;
+access;
+symbols;
+locks
+	brinkman:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2009.05.31.05.31.23;	author brinkman;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.05.31.05.03.20;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.05.31.01.18.56;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.31.00.42.46;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.27.00.29.49;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@#!/usr/bin/env python
+
+from Cheetah.Template import Template
+import sys
+
+t=Template(file='ding.tmpl')
+
+www=sys.argv[1]
+args=sys.argv[2:]
+
+for fn in args:
+  f=open(fn, 'r')
+  t.content = f.read()
+  if fn!="contact.html":
+    t.extra_style = ""
+  else:
+    t.extra_style = \
+     '<link rel="stylesheet" href="bounce.css" type="text/css" media="screen"/>'
+
+  f.close()
+  f=open(www+fn, 'w')
+  f.write(str(t))
+  f.close()
+
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d21 1
+a21 1
+  f=open(www+'/'+fn, 'w')
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d8 2
+a9 1
+args=sys.argv[1:]
+d21 1
+a21 1
+  f=open('../site/'+fn, 'w')
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d14 1
+a14 1
+    t.style = "style.css"
+d16 3
+a18 1
+    t.style = "style_silly.css"
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d13 4
+@

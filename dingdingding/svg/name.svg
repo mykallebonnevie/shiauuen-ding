@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="name.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Users/brinkman/Documents/dingdingding/src/name.png"
+   inkscape:export-xdpi="82.767822"
+   inkscape:export-ydpi="82.767822">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3421">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3423" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3425" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3409">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3411" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3413" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3424">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop3426" />
+      <stop
+         style="stop-color:#666666;stop-opacity:0;"
+         offset="1"
+         id="stop3428" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <filter
+       inkscape:collect="always"
+       id="filter3374"
+       x="-0.027907175"
+       width="1.0558144"
+       y="-0.17142108"
+       height="1.3428422">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0651562"
+         id="feGaussianBlur3376" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3386">
+      <text
+         xml:space="preserve"
+         style="font-size:48px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Brush Script MT;-inkscape-font-specification:Brush Script MT Italic"
+         x="87.988297"
+         y="469.63449"
+         id="text3388"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3390"
+           x="87.988297"
+           y="469.63449">Shiau-uen Ding</tspan></text>
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter3420"
+       x="-0.027907175"
+       width="1.0558144"
+       y="-0.17142108"
+       height="1.3428422">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0651562"
+         id="feGaussianBlur3422" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3424"
+       id="linearGradient3430"
+       x1="69.550064"
+       y1="73.043724"
+       x2="438.61084"
+       y2="73.902138"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3343"
+       x="-0.038834813"
+       width="1.0776696"
+       y="-0.13186972"
+       height="1.2637394">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.822"
+         id="feGaussianBlur3345" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3351">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:STKaiti;-inkscape-font-specification:STKaiti"
+         x="500.36261"
+         y="336.86362"
+         id="text3353"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3355"
+           x="500.36261"
+           y="336.86362">丁曉雯</tspan></text>
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter3393"
+       x="-0.038834813"
+       width="1.0776696"
+       y="-0.13186972"
+       height="1.2637394">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.822"
+         id="feGaussianBlur3395" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3409"
+       id="linearGradient3415"
+       x1="121.96069"
+       y1="108.57764"
+       x2="335.62622"
+       y2="101.65746"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3421"
+       id="linearGradient3427"
+       x1="211.41805"
+       y1="172.37569"
+       x2="375.45395"
+       y2="172.37569"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter4703">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.0655533"
+         id="feGaussianBlur4705" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4735"
+       x="-0.042528736"
+       width="1.0850575"
+       y="-0.10183486"
+       height="1.2036697">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4069983"
+         id="feGaussianBlur4737" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3575"
+     inkscape:cx="328.45092"
+     inkscape:cy="471.54959"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1361"
+     inkscape:window-height="841"
+     inkscape:window-x="241"
+     inkscape:window-y="9"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="137.01657,709.39227"
+       id="guide2427" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.39516129;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter4735)"
+       id="path4126"
+       sodipodi:cx="278.82135"
+       sodipodi:cy="172.37569"
+       sodipodi:rx="96.132599"
+       sodipodi:ry="40.147331"
+       d="M 374.95395,172.37569 A 96.132599,40.147331 0 1 1 182.68875,172.37569 A 96.132599,40.147331 0 1 1 374.95395,172.37569 z"
+       transform="translate(26.887674,-18.047878)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.82258061;fill:url(#linearGradient3427);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path3417"
+       sodipodi:cx="278.82135"
+       sodipodi:cy="172.37569"
+       sodipodi:rx="96.132599"
+       sodipodi:ry="40.147331"
+       d="M 374.95395,172.37569 A 96.132599,40.147331 0 1 1 182.68875,172.37569 A 96.132599,40.147331 0 1 1 374.95395,172.37569 z"
+       transform="translate(12.523019,-32.412523)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.40322583;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter4703)"
+       id="path4122"
+       sodipodi:cx="195.21179"
+       sodipodi:cy="101.65746"
+       sodipodi:rx="139.96317"
+       sodipodi:ry="53.406998"
+       d="M 335.17496,101.65746 A 139.96317,53.406998 0 1 1 55.248627,101.65746 A 139.96317,53.406998 0 1 1 335.17496,101.65746 z"
+       transform="matrix(1.1760961,0,0,0.958045,-38.059273,-11.572902)"
+       inkscape:transform-center-x="138.48987"
+       inkscape:transform-center-y="-51.69705" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.79838712;fill:url(#linearGradient3415);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path3407"
+       sodipodi:cx="195.21179"
+       sodipodi:cy="101.65746"
+       sodipodi:rx="139.96317"
+       sodipodi:ry="53.406998"
+       d="M 335.17496,101.65746 A 139.96317,53.406998 0 1 1 55.248627,101.65746 A 139.96317,53.406998 0 1 1 335.17496,101.65746 z"
+       transform="matrix(1.1760961,0,0,0.958045,-50.950629,-26.674193)" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.60887098;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3420);font-family:Brush Script MT;-inkscape-font-specification:Brush Script MT Italic"
+       x="46.526051"
+       y="84.367508"
+       id="text3396"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3398"
+         x="46.526051"
+         y="84.367508">Shiau-uen Ding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Brush Script MT;-inkscape-font-specification:Brush Script MT Italic"
+       x="42.842808"
+       y="79.947594"
+       id="text3392"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3394"
+         x="42.842808"
+         y="79.947594">Shiau-uen Ding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3374);font-family:Brush Script MT;-inkscape-font-specification:Brush Script MT Italic"
+       x="91.783051"
+       y="474.55313"
+       id="text3278"
+       sodipodi:linespacing="125%"
+       clip-path="url(#clipPath3386)"
+       transform="translate(-45.145488,-389.68692)"><tspan
+         sodipodi:role="line"
+         id="tspan3280"
+         x="91.783051"
+         y="474.55313">Shiau-uen Ding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="109.76059"
+       y="67.403313"
+       id="text3450"><tspan
+         sodipodi:role="line"
+         id="tspan3452"
+         x="109.76059"
+         y="67.403313" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.67338712;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3393);font-family:STKaiti;-inkscape-font-specification:STKaiti"
+       x="230.74936"
+       y="153.43822"
+       id="text3361"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         x="230.74936"
+         y="153.43822">丁曉雯</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:STKaiti;-inkscape-font-specification:STKaiti"
+       x="226.32948"
+       y="150.49162"
+       id="text3357"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3359"
+         x="226.32948"
+         y="150.49162">丁曉雯</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3343);font-family:STKaiti;-inkscape-font-specification:STKaiti"
+       x="501.09924"
+       y="339.07355"
+       id="text2395"
+       sodipodi:linespacing="125%"
+       clip-path="url(#clipPath3351)"
+       transform="translate(-274.03316,-186.372)"><tspan
+         sodipodi:role="line"
+         id="tspan2397"
+         x="501.09924"
+         y="339.07355">丁曉雯</tspan></text>
+  </g>
+</svg>

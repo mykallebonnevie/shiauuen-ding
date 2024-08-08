@@ -1,0 +1,281 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Shiau-uen Ding, pianist</title>
+  <meta name="author" content="Peter Brinkmann"/>
+  <link rel="shortcut icon" href="images/favicon.ico" >
+  <link rel="stylesheet" href="basic.css" type="text/css"/>
+  <link rel="stylesheet" href="screen.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="print.css" type="text/css" media="print"/>
+  
+  <!--
+    HTML and CSS lovingly hand-crafted with vim, Cheetah, and Python;
+    images and animations created with Inkscape and the GIMP
+  -->
+</head>
+<body>
+  <div id="header">
+    <div id="navigation">
+      <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="bio.html">BIOGRAPHY</a></li>
+        <li><a href="concerts.html">CONCERTS</a></li>
+        <li><a href="repertoire.html">REPERTOIRE</a></li>
+        <li><a href="recordings.html">RECORDINGS</a></li>
+        <li><a href="words.html">WORDS</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="main">
+    <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+	<title>Metronome for New Music</title>
+	<script src="./metronome-for-new-music-folder/build/Tone.js"></script>
+	<link rel="stylesheet" type="text/css" href="./metronome-for-new-music-folder/style/basic.css">
+</head>
+
+<body>	
+	<div id="Content">
+
+		<div id="Title">Metronome for New Music</div>
+		<div id="Explanation">
+			This metronome can be customized to loop through non-conventional time signatures. 
+		</div>
+
+		<br>
+		<table id="theTable">
+			<tr>
+				<th>Tempo</th>
+				<th>Beats</th>
+				<th>Accents</th>
+				<th>Loops</th>
+				<th></th>
+			</tr>
+		</table>
+		<br>
+
+		<button onclick="addPattern()">Add</button>
+
+		<div class="slidecontainer">
+<!-- 		  	<input	type="range"
+		  			min="20" max="120" value="100"
+		  			class="slider"
+		  			id="sliderrange" > -->
+			tempi
+				<input	type="number"
+		  				min="20" max="120" value="100"
+		  				id="slidervalue" >%
+		</div>
+
+		<div>
+			<input type="checkbox" class="playToggle">
+			<!-- <input type="button" class="playToggle" value="play"> -->
+		</div>
+
+	</div>
+
+
+	<script>
+		"use strict";
+
+		const patterns = []; // where the info resides
+
+		//create a synth and connect it to the master output (your speakers)
+		var synth = new Tone.Synth().toMaster()
+
+		const triggerSynth = function() {
+			synth.triggerAttackRelease('C2', '16n');
+		}
+
+		const triggerSynthAccent = function() {
+			synth.triggerAttackRelease('C8', '16n');
+		}
+
+		let tempoPercentage = 100;
+		// document.querySelector('.slider').addEventListener('change', (e) => {
+		// 	tempoPercentage = e.target.value;
+		// })
+
+
+		document.getElementById('slidervalue').addEventListener('change', (e) => {
+			console.log("e: " + e.target.value);
+			tempoPercentage = e.target.value;
+			console.log("tempoPercentage: " + tempoPercentage);
+		})
+
+
+
+
+		let noteEventID;
+		// start/stop the transport
+		document.querySelector('.playToggle').addEventListener('change', (e) => {
+			if (e.target.checked){
+				Tone.Transport.start('+0.1');
+				let pattern_index = 0;
+				let loop_index = 0;
+				let beat_index = 0;
+				noteEventID = Tone.Transport.scheduleRepeat((time) => {
+					if (patterns.length === 0) {
+						return;
+					}
+					let p = patterns[pattern_index];
+
+					// all tempi change by percentage thru slider
+					Tone.Transport.bpm.value = p.tempo * tempoPercentage / 100;
+					// console.log(tempoPercentage);
+
+					// go thru patterns
+					// in each pattern, go thru loops
+					// in each loop, go thru beats
+					if(p.accents[beat_index]) {
+						triggerSynthAccent();
+					} else {
+						triggerSynth();
+					}
+					beat_index++;
+					if(beat_index === p.beats) {
+						loop_index++;
+						beat_index = 0;
+						if(loop_index === p.loops) {
+							pattern_index++;
+							loop_index = 0;
+							if(pattern_index === patterns.length) {
+								pattern_index = 0;
+							}
+						}
+					}
+				}, "4n");
+			} else {
+				Tone.Transport.stop();
+				Tone.Transport.clear(noteEventID);
+			}
+		});
+
+		const addPattern = function() {
+			const table = document.getElementById("theTable");
+			const row = table.insertRow();
+			let pattern = {
+				tempo: 120,
+				beats: 4,
+				loops: 1,
+				accents: [true],
+				row: row
+			}
+
+			row.addEventListener("click", function(e) {
+				console.log(e.target.name);
+				if (e.target.name === "delete") {
+					deletePattern(pattern);
+				}
+			});
+
+			row.addEventListener("change", (e) => {
+				if(e.target.name === "tempo") {
+					pattern.tempo = +e.target.value;
+				}
+				if(e.target.name === "beats") {
+					pattern.beats = +e.target.value;
+					displayPattern(pattern);
+				}
+				if(e.target.name === "loops") {
+					pattern.loops = +e.target.value;
+				}
+				if(e.target.name.startsWith("accent-")) {
+					let i = +e.target.name.replace("accent-", "");
+					pattern.accents[i] = e.target.checked;
+				}
+			});
+
+			patterns.push(pattern);
+			displayPattern(pattern);
+		}
+
+		const displayPattern = function(p) {
+			p.row.innerHTML = "";
+
+			// const playCell = p.row.insertCell();
+		 //    const playElement = document.createElement("input");
+		 //    playElement.type = "button";
+		 //    playElement.name = "play";
+		 //    playElement.value = "play";
+		 //    playCell.appendChild(playElement);
+
+		    const tempoCell = p.row.insertCell();
+		    const tempoElement = document.createElement("input");
+		    tempoElement.type = "number";
+		    tempoElement.name = "tempo";
+		    tempoElement.value = p.tempo;
+		    tempoElement.min = "10";
+		    tempoElement.max = "1000";
+		    tempoCell.appendChild(tempoElement);
+
+		    const beatsCell = p.row.insertCell();
+		    const beatsElement = document.createElement("input");
+		    beatsElement.type = "number";
+		    beatsElement.name = "beats";
+		    beatsElement.value = p.beats;
+		    beatsElement.min = "1";
+		    beatsElement.max = "16";
+		    beatsCell.appendChild(beatsElement);
+
+		    const accentsCell = p.row.insertCell();
+		    for(let i = 0; i < p.beats; i++) {
+		    	const checkbox = document.createElement("input");
+		    	checkbox.type = "checkbox";
+			    checkbox.name = "accent-" + i;
+			    checkbox.checked = p.accents[i] ? "checked" : "";
+			    accentsCell.appendChild(checkbox);
+		    }
+
+		    const loopsCell = p.row.insertCell();
+		    const loopsElement = document.createElement("input");
+		    loopsElement.type = "number";
+		    loopsElement.name = "loops";
+		    loopsElement.value = p.loops;
+		    loopsElement.min = "1";
+		    loopsElement.max = "300";
+		    loopsCell.appendChild(loopsElement);
+
+		    const deleteCell = p.row.insertCell();
+		    const deleteElement = document.createElement("input");
+		    deleteElement.type = "button";
+		    deleteElement.value = "delete";
+		    deleteElement.name = "delete";
+		    deleteCell.appendChild(deleteElement);
+		}
+
+		const deletePattern = function(p) {
+			// if the metronome is playing, stop it
+			const isPlaying = document.querySelector('.playToggle');
+			if (isPlaying.checked) {
+				isPlaying.click();
+			}
+
+			const pIndex = patterns.indexOf(p);
+			patterns.splice(pIndex, 1);
+
+			document.getElementById("theTable").deleteRow(p.row.rowIndex);
+		}
+
+	</script>
+</body>
+</html>
+
+  </div>
+  
+<!-- Google Analytics code -->
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-9142242-1");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+</body>
+</html>

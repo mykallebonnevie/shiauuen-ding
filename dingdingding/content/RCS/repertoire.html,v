@@ -1,0 +1,962 @@
+head	1.15;
+access;
+symbols;
+locks
+	brinkman:1.15; strict;
+comment	@# @;
+
+
+1.15
+date	2010.05.16.18.14.31;	author brinkman;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2009.11.29.17.15.13;	author brinkman;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2009.10.13.15.40.15;	author brinkman;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2009.09.10.18.26.59;	author brinkman;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2009.06.30.18.31.23;	author brinkman;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.06.12.21.55.06;	author brinkman;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.06.06.17.39.18;	author brinkman;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.05.31.01.23.05;	author brinkman;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.05.29.06.47.09;	author brinkman;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.05.29.05.12.05;	author brinkman;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.05.27.05.51.01;	author brinkman;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.05.27.05.38.26;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.05.27.04.48.30;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.27.03.01.41;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.27.00.20.41;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@<h1>Repertoire</h1>
+
+<ul class="sublinks">
+<li><a href="rep_solo_electronics.html">Solo with Electronics</a></li>
+<li><a href="rep_chamber.html">Chamber</a></li>
+<li><a href="rep_next.html">Ensemble with Electronics</a></li>
+</ul>
+
+<h2>Solo</h2>
+
+<dl class="pieces">
+<dt>John Adams</dt>
+<dd>China Gates</dd>
+<dt>Louis Andriessen</dt>
+<dd>Trepidus</dd>
+<dt>Johann Sebastian Bach</dt>
+<dd>
+<ul>
+<li>Italian Concerto in F Major, BWV 971</li>
+<li>Chromatic Fantasy and Fugue</li>
+<li>Toccata in D Minor, BWV 913</li>
+<li>English Suite in A Minor, BWV 807</li>
+<li>The Well-Tempered Clavier Book I Nos. 2, 3, 5, 6, 9, 10, 11, 13, 14, 15, 17, 21</li>
+<li>The Well-Tempered Clavier Book II Nos. 3, 5, 6, 7, 10, 12, 15, 19, 24</li>
+</ul>
+</dd>
+<dt><a href="http://music.columbia.edu/~chris/">Christopher Bailey</a></dt>
+<dd>
+<ul>
+<li>Abstraction 4</li>
+<li>Untitled 1994/96</li>
+</ul>
+</dd>
+<dt>Ludwig van Beethoven</dt>
+<dd>Sonatas Op. 2 No. 3, Op. 10 No. 2, Op. 10 No. 3, Op. 13, Op. 14 No. 2, 		
+			Op. 27 No. 1, Op. 27 No. 2, Op. 31 No. 2, Op. 31 No. 3, Op. 81a, Op. 109</dd>
+<dt>Johannes Brahms</dt>
+<dd>
+<ul>
+<li>Variations and Fugue on a Theme by Handel, Op. 24</li>
+<li>Rhapsodies Op. 79</li>
+</ul>
+</dd>
+<dt>Elliott Carter</dt>
+<dd>Two Thoughts About The Piano: Intermittences, Cat&eacute;naires</dd>
+<dt>Fr&eacute;d&eacute;ric Chopin</dt>
+<dd>
+<ul>
+<li>Etudes Op. 10 Nos. 3, 4, 5, 7, 8, 9, 10, 12</li>
+<li>Etudes Op. 25 Nos. 1, 2, 3, 5, 6, 9, 11, 12</li>
+<li>Scherzo Nos. 1, 2, 3</li>
+<li>Ballade Nos. 1, 2, 4</li>
+<li>Mazurkas Op. 33</li>
+</ul>
+</dd>
+<dt>Paul Creston</dt>
+<dd>Narrative No. 1 (<q>Hercules</q>)</dd>
+<dt>Claude Debussy</dt>
+<dd>
+<ul>
+<li>Etudes: pour les huit doigts, pour les arp&egrave;ges compos&eacute;s</li>
+<li>Preludes: Les collines d'Anacapri, Minstrels</li>
+<li>Deux Arabesques</li>
+<li>L'isle joyeuse</li>
+<li>Pour le piano</li>
+<li>Estampes: Jardins sous la pluie</li>
+</ul>
+</dd>
+<dt><a href="http://www.moritzeggert.de/">Moritz Eggert</a></dt>
+<dd>
+<ul>
+<li>H&auml;mmerklavier III <q>One Man Band</q></li>
+<li>H&auml;mmerklavier IV <q>Zwei Miniaturen</q></li>
+<li>H&auml;mmerklavier XIX <q>Hymnen der Welt (Afghanistan bis Zimbabwe)</q></li>
+<li>H&auml;mmerklavier XX <q>One Man Band 2</q></li>
+</ul>
+</dd>
+<dt>Brian Ferneyhough</dt>
+<dd>Lemma-Icon-Epigram</dd>
+<dt><a href="http://gaoping.org/">Gao, Ping</a></dt>
+<dd>
+<ul>
+<li>Distant Voices</li>
+<li>Xiao Xiao</li>
+</ul>
+</dd>
+<dt>Osvaldo Golijov</dt>
+<dd>Levante</dd>
+<dt>Arthur Honegger</dt>
+<dd>Trois pi&egrave;ces</dd>
+<dt><a href="http://michaelippolito.com/">Michael Ippolito</a></dt>
+<dd>Liszt It Is</dd>
+<dt>Franz Liszt</dt>
+<dd>Apr&egrave;s une Lecture de Dante - Fantasia quasi Sonata</dd>
+<dt>Theo Loevendie</dt>
+<dd>Dome</dd>
+<dt>Olivier Messiaen</dt>
+<dd>Regard de l'Esprit de joie from <q>Vingt Regards sur l'Enfant Jesus</q></dd>
+<dt>Wolfgang Amadeus Mozart</dt>
+<dd>Sonatas KV 283, KV 332, KV 333, KV 570, KV 576</dd>
+<dt>Sergei Prokofiev</dt>
+<dd>
+<ul>
+<li>Sonatas No. 1 Op. 1, No. 8 Op. 84</li>
+<li>Toccata, Op. 11</li>
+</ul>
+</dd>
+<dt>Sergei Rachmaninoff</dt>
+<dd>Preludes Op. 23 No. 4 &amp; 7, Op. 32 No. 10</dd>
+<dt>Maurice Ravel</dt>
+<dd>Gaspard de la nuit</dd>
+<dt>Frederic Rzewski</dt>
+<dd>
+<ul>
+<li>Winnsboro Cotton Mill Blues</li>
+<li>Nanosonatas Book 1</li>
+</ul>
+</dd>
+<dt>Domenico Scarlatti</dt>
+<dd>Sonatas K. 18, L. 187, K. 141</dd>
+<dt>Peter Schat</dt>
+<dd>Polonaise Op. 29</dd>
+<dt>Arnold Sch&ouml;nberg</dt>
+<dd>F&uuml;nf Klavierst&uuml;cke, Op. 23</dd>
+<dt>Dmitri Shostakovich</dt>
+<dd>Prelude and Fugue in B-flat Minor, Op. 87, No. 16</dd>
+<dt>Franz Schubert</dt>
+<dd>Sonata in A Minor, D 959</dd>
+<dt>Robert Schumann</dt>
+<dd>
+<ul>
+<li>Th&egrave;me sur le mon Abegg vari&eacute;, Op. 1</li>
+<li>Papillons, Op. 2</li>
+</ul>
+</dd>
+<dt>Alexander Scriabin</dt>
+<dd>
+<ul>
+<li>Nocturne for the Left Hand Alone, Op. 9, No. 2</li>
+<li>24 Preludes, Op. 11</li>
+<li>Sonatas No. 3 Op. 23, No. 5 Op. 53, No. 7 Op. 64</li>
+</ul>
+</dd>
+<dt>Pyotr Ilyich Tchaikovsky</dt>
+<dd>The Seasons, Op. 37b</dd>
+<dt>George Tsontakis</dt>
+<dd>Ghost Variations</dd>
+</dl>
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@d44 2
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@d89 2
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@d73 1
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d28 6
+a33 1
+<dd>Abstraction 4</dd>
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+<li><a href="rep_solo.html">Solo with Electronics</a></li>
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d27 1
+a27 1
+<dt>Christopher Bailey</dt>
+d62 1
+a62 1
+<dt>Moritz Eggert</dt>
+d72 1
+a72 1
+<dt>Gao, Ping</dt>
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d90 1
+a90 6
+<dd>
+<ul>
+<li>Concerto No. 27, KV 595</li>
+<li>Sonatas KV 283, KV 332, KV 333, KV 570, KV 576</li>
+</ul>
+</dd>
+a93 1
+<li>Concerto No. 3, Op. 26</li>
+d99 1
+a99 6
+<dd>
+<ul>
+<li>Preludes Op. 23 No. 4 &amp; 7, Op. 32 No. 10</li>
+<li>Concerto No. 2</li>
+</ul>
+</dd>
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 1
+<ul class="replinks">
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a6 1
+<li><a href="rep_chamber.html">Chamber</a></li>
+d9 1
+a9 1
+<h1>Solo</h1>
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<h1>Selected repertoire</h1>
+d3 7
+a9 1
+<h2>Solo</h2>
+a119 2
+<dt>Camille Saint-Sa&euml;ns</dt>
+<dd>Concerto No. 2 in G Minor, Op. 22</dd>
+a134 1
+<li>Concerto in A Minor, Op. 54</li>
+a149 317
+
+<h2>Chamber/with Orchestra</h2>
+
+<dl class="pieces">
+<dt>Samuel Barber</dt>
+<dd>Sonata for Cello and Piano, Op. 6</dd>
+<dt>Ludwig van Beethoven</dt>
+<dd>
+<ul>
+<li>Sonata for Violin and Piano No. 1 in D Major, Op. 12, No. 1</li>
+<li>Sonata for Violin and Piano No. 2 in A Major, Op. 12, No. 2</li>
+<li>Sonata for Violin and Piano No. 3 in E-flat Major, Op. 12, No. 3</li>
+<li>Sonata for Violin and Piano No. 4 in A Minor, Op. 23</li>
+<li>Sonata for Violin and Piano No. 5 in F Major, Op. 24</li>
+<li>Sonata for Violin and Piano No. 8, Op. 30</li>
+<li>Sonata for Violin and Piano No. 9 in A Major, Op. 47</li>
+</ul>
+</dd>
+<dt>Jack Body</dt>
+<dd>Rainforest (for flute/alto flute and piano)</dd>
+<dt>Johannes Brahms</dt>
+<dd>
+<ul>
+<li>Variations on a Theme by Joseph Haydn (for two pianos)</li>
+<li>Sonata for Violin and Piano No. 3 in D Minor, Op. 108</li>
+<li>Sonata for Cello and Piano No. 1 in E Minor, Op. 38</li>
+<li>Sonata for Cello and Piano No. 2 in F Major, Op. 99</li>
+<li>Sonata for Clarinet and Piano in F Minor, Op. 120</li>
+</ul>
+</dd>
+<dt>John Corigliano</dt>
+<dd>Kaleidoscope (for two pianos)</dd>
+<dt>Claude Debussy</dt>
+<dd>
+<ul>
+<li>Sonata for Violin and Piano in G Minor</li>
+<li>Sonata for Cello and Piano</li>
+</ul>
+</dd>
+<dt>Moritz Eggert</dt>
+<dd>Pong (for septet)</dd>
+<dt>Eric Ewazen</dt>
+<dd>Ballade, Pastorale and Dance (for flute, horn and piano)</dd>
+<dt>Gabriel Faur&eacute;</dt>
+<dd>
+<ul>
+<li>Sonata for Violin and Piano No. 1 in A Major, Op. 13</li>
+<li>Sonata for Cello and Piano in D Minor, Op. 109</li>
+</ul>
+</dd>
+<dt>Michael Fiday</dt>
+<dd>
+<ul>
+<li>Automotive Passacaglia (for piano and percussions)<//li>
+<Li>9 Haiku (for flute and piano)</li>
+</ul>
+</dd>
+<dt>C&egrave;sar Franck</dt>
+<dd>Sonata in A Minor</dd>
+<dt>Alberto Ginastera</dt>
+<dd>Rhapsody for Cello and Piano</dd>
+<dt>Mikhail Glinka</dt>
+<dd>Sonata for Viola and Piano in D Minor</dd>
+<dt>Jennifer Higdon</dt>
+<dd>
+<ul>
+<li>Legacy (for flute and piano)</li>
+<li>running the edgE (for two flutes and piano)</li>
+</ul>
+</dd>
+<dt>Joel Hoffman</dt>
+<dd>
+<ul>
+<li>Portogruaro Quartet (for two pianos and percussion)</li>
+<li>Blue and Yellow (for flute and piano)</li>
+</ul>
+</dd>
+<dt>Charles Ives</dt>
+<dd>
+<ul>
+<li>Sonata for Piano and Violin No. 1</li>
+<li>Sonata for Piano and Violin No. 2</li>
+<li>Sonata for Piano and Violin No. 3</li>
+<li>Sonata for Piano and Violin No. 4</li>
+</ul>
+</dd>
+<dt>Andr&eacute; Jolivet</dt>
+<dd>Chant de Linos for Flute and Piano</dd>
+<dt>Michael Kugel</dt>
+<dd>
+<ul>
+<li>Il Carnevale di Venezia (for viola and piano)</li>
+<li>Suite <q>In memoriam Shostakivich</q> (for viola and piano)</li>
+</ul>
+</dd>
+<dt>Franz Liszt</dt>
+<dd>Les Pr&eacute;lude (for two pianos; arranged by Franz Liszt)</dd>
+<dt>Witold Lutoslawski</dt>
+<dd>
+<ul>
+<li>Grave (for cello and piano)</li>
+<li>Variations on a Theme by Paganini (for two pianos)</li>
+</ul>
+</dd>
+<dt>Wolfgang Amadeus Mozart</dt>
+<dd>
+<ul>
+<li>Sonata in D Major for Two Pianos</li>
+<li>Sonata for Piano and Violin in B-flat Major, KV 454</li>
+</ul>
+</dd>
+<dt>Olivier Messiaen</dt>
+<dd>Quatuor pour la fin du Temps (for violin, clarinet, cello and piano)</dd>
+<dt>Darius Milhaud</dt>
+<dd>Sonata for Violin and Piano No. 2, Op. 40</dd>
+<dt>Vaclav Nelhybel</dt>
+<dd>Scherzo Concertante for horn and piano</dd>
+<dt>Francis Poulenc</dt>
+<dd>
+<ul>
+<li>Sonata Op. 8 (for four hands/one piano)</li>
+<li>Sonata for Cello and Piano</li>
+<li>Trio pour Piano, Hautbois et Bassoon</li>
+</ul>
+</dd>
+<dt>Sergei Prokofiev</dt>
+<dd>
+<ul>
+<li>Sonata for Violin and Piano No. 1 in F Minor, Op. 80</li>
+<li>Sonata for Violin and Piano No. 2 in D Minor, Op. 94</li>
+<li>Sonata for Cello and Piano in C Major, Op. 119</li>
+</ul>
+</dd>
+<dt>Maurice Ravel</dt>
+<dd>
+<ul>
+<li>La Valse (for two pianos)</li>
+<li>Tzigane (for violin and piano)</li>
+<li>Sonata for Violin and Piano</li>
+<li>Piano Trio</li>
+</ul>
+</dd>
+<dt>Steve Reich</dt>
+<dd>Music for 18 Musicians</dd>
+<dt>Joseph Rheinberger</dt>
+<dd>Sonata for Horn and Piano in E-flat Major, Op. 178</dd>
+<dt>George Rochberg</dt>
+<dd>Sonata for Viola and Piano</dd>
+<dt>Dmitri Shostakovich</dt>
+<dd>
+<ul>
+<li>Sonata for Viola and Piano</li>
+<li>Piano Trio No. 2 in E Minor, Op. 67</li>
+</ul>
+</dd>
+<dt>Franz Schubert</dt>
+<dd>
+<ul>
+<li>Fantasy in F Minor, Op. 103 (D. 940) (for four hands/one piano)</li>
+<li>Sonata in A Minor, <q>Arpeggione</q></li>
+</ul>
+</dd>
+<dt>Robert Schumann</dt>
+<dd>
+<ul>
+<li>Sonata for Violin and Piano No. 1 in A Minor, Op. 105</li>
+<li>Three Fantasy Pieces</li>
+</ul>
+</dd>
+<dt>Joseph Schwantner</dt>
+<dd>...and the mountains rising nowhere (for amplified piano, winds, brass and percussion)</dd>
+<dt>Bedrich Smetana	Piano Trio
+<dt>Igor Stravinsky</dt>
+<dd>
+<ul>
+<li>Concerto for Two Pianos</li>
+<li>Petrushka (for two pianos; arranged by Igor Stravinsky)</li>
+<li>Italian Suite for Violin/Cello and Piano</li>
+</ul>
+</dd>
+<dt>Georg Philipp Telemann</dt>
+<dd>Sonata for Flute and Piano in F Minor</dd>
+<dt>Michael Torke</dt>
+<dd>Adjustable Wrench</dd>
+<dt>Joan Tower</dt>
+<dd>Tres Lent (for cello and piano)</dd>
+<dt>Vladimir Tsybin</dt>
+<dd>Andante and Tarantella for Flute and Piano</dd>
+<dt>Heitor Villa-Lobos</dt>
+<dd>Noneto (Impress&atilde;o r&aacute;pida de todo o Brasil) (for chorus, flute, oboe, clarinet, saxophone, 
+			bassoon, harp, percussion, celesta and piano)</dd>
+<dt>Charles-Marie Widor</dt>
+<dd>Suite for Flute and Piano, Op. 34</dd>
+<dt>Dana Wilson</dt>
+<dd>Musings: An Ode to the Greek Muses (for horn and piano)</dd>
+</dl>
+
+
+<h2>Chamber with Voice</h2>
+
+<dl class="pieces">
+<dt>Claude Debussy</dt>
+<dd>
+<ul>
+<li>La romance d'Ariel</li>
+<li>Musique</li>
+<li>Apparition</li>
+</ul>
+</dd>
+<dt>Gao, Ping</dt>
+<dd>Two Shin-Yu Pai Poems: Dog Story; Elergy</dd>
+<dt>Paul Hindemith</dt>
+<dd>Cum natus esset</dd>
+<dt>Andr&eacute; Previn</dt>
+<dd>Three Dickinson Songs: As Imperceptibly as Grief; Will There Really Be a Morning?; 
+			Good Morning Midnight</dd>
+<dt>Erik Satie</dt>
+<dd>Trois M&eacute;lodies de 1916: La status de bronze; Daph&eacute;n&eacute;o; La chapelier</dd>
+<dt>Robert Schumann</dt>
+<dd>Dichterliebe</dd>
+<dt>Joseph Schwantner</dt>
+<dd>Two Poems of Agueda Pizarro: Shadowinnower; Black Anemones</dd>
+<dt>Richard Strauss</dt>
+<dd>
+<ul>
+<li>Zueignung, Op. 10, No. 1, Nichts, Op. 10, No. 2, Die Georgine, Op. 10, No. 4</li>
+<li>Weisser Jasmin, op. 31, No. 3</li>
+<li>Ich liebe dich, Op. 37, No. 2</li>
+</ul>
+</dd>
+</dl>
+
+
+<h2>Electro-Acoustic</h2>
+
+For Solo Piano and Electronics:
+
+<dl class="pieces">
+<dt>Milton Babbitt</dt>
+<dd>Reflections</dd>
+<dt>Christopher Bailey</dt>
+<dd>Balladei</dd>
+<dt>Burton Beerman</dt>
+<dd>Conversations</dd>
+<dt>Madelyn Byrne</dt>
+<dd>Northern Flight</dd>
+<dt>Eric Chasalow</dt>
+<dd>Due (Cinta)mani</dd>
+<dt>Mario Davidovsky</dt>
+<dd>Synchronisms No. 6</dd>
+<dt>Charles Dodge</dt>
+<dd>Any Resemblance Is Purely Coincidental</dd>
+<dt>Jonathan Harvey</dt>
+<dd>Tombeau de Messiaen</dd>
+<dt>Mara Helmuth</dt>
+<dd>
+<ul>
+<li>Inchoate Energies</li>
+<li>Meeting the Free Dreamer</li>
+<li>Light Descends Into Your Heart</li>
+</ul>
+</dd>
+<dt>Pierre Jodlowski</dt>
+<dd>
+<ul>
+<li>S&eacute;rie Blanche</li>
+<li>S&eacute;rie Noire</li>
+</ul>
+</dd>
+<dt>Cort Lippe</dt>
+<dd>Music for Piano and Computer</dd>
+<dt>Jennifer B. Merkowitz</dt>
+<dd>In the Key of Light</dd>
+<dt>James Mobberley</dt>
+<dd>
+<ul>
+<li>Into the Maelstrom</li>
+<li>Caution to the Winds</li>
+</ul>
+</dd>
+<dt>Luigi Nono</dt>
+<dd>... sofferte onde serene...</dd>
+<dt>Katharine Norman</dt>
+<dd>Trying to Translate</dd>
+<dt>Russell Pinkston</dt>
+<dd>TaleSpin</dd>
+<dt>Heinrich Taube</dt>
+<dd>The Aeolian Harp</dd>
+</dl>
+
+
+<h2>For Ensemble and Electronics</h2>
+
+(mostly written for and premiered by NeXT Ens)
+
+<dl class="pieces">
+<dt>Christopher Bailey</dt>
+<dd>The Quiet Play of Busy Pipes</dd>
+<dt>Burton Beerman</dt>
+<dd>Invisible Images</dd>
+<dt>Ivica Ico Bukvic</dt>
+<dd>Tabula rasa</dd>
+<dt>Douglas Geers</dt>
+<dd>Tremor Transducer</dd>
+<dt>Mara Helmuth</dt>
+<dd>The Edge of Noise</dd>
+<dt>Paul Koonce</dt>
+<dd>Afterglow</dd>
+<dt>Paul Lansky</dt>
+<dd>Stroll</dd>
+<dt>Eric Lyon</dt>
+<dd>Introduction and Allegro</dd>
+<dt>Ronald Parks</dt>
+<dd>Afterimage 7</dd>
+<dt>Judith Shatin</dt>
+<dd>El Grito del Corazon</dd>
+</dl>
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@a463 1
+
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 1
+<dl>
+d150 1
+a150 1
+<dl>
+d347 1
+a347 1
+<dl>
+d384 1
+a384 1
+<dl>
+d442 1
+a442 1
+<dl>
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d1 464
+a464 206
+<h1>Selected repertoire</h1>
+
+<h2>Solo</h2>
+
+John Adams		China Gates
+Louis Andriessen	Trepidus
+J. S. Bach		Italian Concerto in F Major, BWV 971
+			Chromatic Fantasy and Fugue
+			Toccata in D Minor, BWV 913
+			English Suite in A Minor, BWV 807
+			The Well-Tempered Clavier Book I Nos. 2, 3, 5, 6, 9, 10, 11, 13, 14, 15, 17, 21
+			The Well-Tempered Clavier Book II Nos. 3, 5, 6, 7, 10, 12, 15, 19, 24
+Christopher Bailey	Abstraction 4
+Ludwig v. Beethoven	Sonatas Op. 2 No. 3, Op. 10 No. 2, Op. 10 No. 3, Op. 13, Op. 14 No. 2, 		
+			Op. 27 No. 1, Op. 27 No. 2, Op. 31 No. 2, Op. 31 No. 3, Op. 81a, Op. 109
+Johannes Brahms	Variations and Fugue on a Theme by Handel, Op. 24
+			Rhapsodies Op. 79
+Fr&eacute;d&eacute;ric Chopin		Etudes Op. 10 Nos. 3, 4, 5, 7, 8, 9, 10, 12
+			Etudes Op. 25 Nos. 1, 2, 3, 5, 6, 9, 11, 12
+			Scherzo Nos. 1, 2, 3
+			Ballade Nos. 1, 2, 4
+			Mazurkas Op. 33
+Paul Creston		Narrative No. 1 ("Hercules")
+Claude Debussy		Etudes: pour les huit doigts, pour les arp&egrave;ges
+compos&eacute;s
+			Preludes: Les collines d'Anacapri, Minstrels
+			Deux Arabesques
+			L'isle joyeuse
+			Pour le piano
+			Estampes: Jardins sous la pluie
+Moritz Eggert		H&auml;mmerklavier III "One Man Band"
+			Hämmerklavier IV "Zwei Miniaturen"
+			Hämmerklavier XIX "Hymnen der Welt (Afghanistan bis Zimbabwe)
+Brian Ferneyhough	Lemma-Icon-Epigram
+Gao, Ping		Distant Voices
+			Xiao Xiao
+Osvaldo Golijov	Levante
+Arthur Honegger	Trois pièces
+Franz Liszt		Après une Lecture de Dante - Fantasia quasi Sonata
+Theo Loevendie		Dome
+Olivier Messiaen	Regard de l'Esprit de joie from "Vingt Regards sur l'Enfant Jesus"
+Wolfgang A. Mozart	Concerto No. 27, KV 595
+			Sonatas KV 283, KV 332, KV 333, KV 570, KV 576
+Sergei Prokofiev	Concerto No. 3, Op. 26
+			Sonatas No. 1 Op. 1, No. 8 Op. 84
+			Toccata, Op. 11
+Sergei Rachmaninoff	Preludes Op. 23 No. 4 & 7, Op. 32 No. 10
+			Concerto No. 2
+Maurice Ravel		Gaspard de la nuit
+Frederic Rzewski	Winnsboro Cotton Mill Blues
+			Nanosonatas Book 1
+Camille Saint-Saëns	Concerto No. 2 in G Minor, Op. 22
+Domenico Scarlatti	Sonatas K. 18, L. 187, K. 141
+Peter Schat		Polonaise Op. 29
+Arnold Schönberg	Fünf Klavierstück, Op. 23
+Dmitri Shostakovich	Prelude and Fugue in B-flat Minor, Op. 87, No. 16
+Franz Schubert		Sonata in A Minor, D 959
+Robert Schumann	Thème sur le nom Abegg varié, Op. 1
+			Papillons, Op. 2
+			Concerto in A Minor, Op. 54
+Alexander Scriabin	Nocturne for the Left Hand Alone, Op. 9, No. 2
+			24 Preludes, Op. 11
+			Sonatas No. 3 Op. 23, No. 5 Op. 53, No. 7 Op. 64
+P. I. Tchaikovsky	The Seasons, Op. 37b
+George Tsontakis	Ghost Variations
+
+
+Chamber/with Orchestra:
+
+Samuel Barber		Sonata for Cello and Piano, Op. 6
+Ludwig v. Beethoven	Sonata for Violin and Piano No. 1 in D Major, Op. 12, No. 1
+			Sonata for Violin and Piano No. 2 in A Major, Op. 12, No. 2
+			Sonata for Violin and Piano No. 3 in E-flat Major, Op. 12, No. 3
+			Sonata for Violin and Piano No. 4 in A Minor, Op. 23
+			Sonata for Violin and Piano No. 5 in F Major, Op. 24
+			Sonata for Violin and Piano No. 8, Op. 30
+			Sonata for Violin and Piano No. 9 in A Major, Op. 47
+Jack Body		Rainforest (for flute/alto flute and piano)
+Johannes Brahms	Variations on a Theme by Joseph Haydn (for two pianos)
+			Sonata for Violin and Piano No. 3 in D Minor, Op. 108
+			Sonata for Cello and Piano No. 1 in E Minor, Op. 38
+			Sonata for Cello and Piano No. 2 in F Major, Op. 99
+			Sonata for Clarinet and Piano in F Minor, Op. 120
+John Corigliano		Kaleidoscope (for two pianos)
+Claude Debussy		Sonata for Violin and Piano in G Minor
+			Sonata for Cello and Piano
+Moritz Eggert		Pong (for septet)
+Eric Ewazen		Ballade, Pastorale and Dance (for flute, horn and piano)
+Gabriel Fauré		Sonata for Violin and Piano No. 1 in A Major, Op. 13
+			Sonata for Cello and Piano in D Minor, Op. 109
+Michael Fiday		Automotive Passacaglia (for piano and percussions)
+			9 Haiku (for flute and piano)
+Cèsar Franck		Sonata in A Minor
+Alberto Ginastera	Rhapsody for Cello and Piano
+Mikhail Glinka		Sonata for Viola and Piano in D Minor
+Jennifer Higdon		Legacy (for flute and piano)
+			running the edgE (for two flutes and piano)
+Joel Hoffman		Portogruaro Quartet (for two pianos and percussion)
+			Blue and Yellow (for flute and piano)
+Charles Ives		Sonata for Piano and Violin No. 1
+			Sonata for Piano and Violin No. 2
+			Sonata for Piano and Violin No. 3
+			Sonata for Piano and Violin No. 4
+André Jolivet		Chant de Linos for Flute and Piano
+Michael Kugel		Il Carnevale di Venezia (for viola and piano)
+			Suite "In memoriam Shostakivich" (for viola and piano)
+Franz Liszt		Les Prélude (for two pianos; arranged by Franz Liszt)
+Witold Lutos_awski	Grave (for cello and piano)
+			Variations on a Theme by Paganini (for two pianos)
+Wolfgang A. Mozart	Sonata in D Major for Two Pianos
+			Sonata for Piano and Violin in B-flat Major, KV 454
+Olivier Messiaen	Quatuor pour la fin du Temps (for violin, clarinet, cello and piano)
+Darius Milhaud		Sonata for Violin and Piano No. 2, Op. 40
+Vaclav Nelhybel	Scherzo Concertante for horn and piano
+Francis Poulenc		Sonata Op. 8 (for four hands/one piano)
+			Sonata for Cello and Piano
+			Trio pour Piano, Hautbois et Bassoon
+Sergei Prokofiev	Sonata for Violin and Piano No. 1 in F Minor, Op. 80
+			Sonata for Violin and Piano No. 2 in D Minor, Op. 94
+			Sonata for Cello and Piano in C Major, Op. 119
+Maurice Ravel		La Valse (for two pianos)
+			Tzigane (for violin and piano)
+			Sonata for Violin and Piano
+			Piano Trio
+Steve Reich		Music for 18 Musicians
+Joseph Rheinberger	Sonata for Horn and Piano in E-flat Major, Op. 178
+George Rochberg	Sonata for Viola and Piano
+Dmitri Shostakovich	Sonata for Viola and Piano
+			Piano Trio No. 2 in E Minor, Op. 67
+Franz Schubert		Fantasy in F Minor, Op. 103 (D. 940) (for four hands/one piano)
+			Sonata in A Minor, "Arpeggione"
+Robert Schumann	Sonata for Violin and Piano No. 1 in A Minor, Op. 105
+			Three Fantasy Pieces
+Joseph Schwantner	… and the mountains rising nowhere (for amplified piano, winds, brass and percussion)
+Bedrich Smetana	Piano Trio
+Igor Stravinsky		Concerto for Two Pianos
+			Petrushka (for two pianos; arranged by Igor Stravinsky)
+			Italian Suite for Violin/Cello and Piano
+Georg P. Telemann	Sonata for Flute and Piano in F Minor
+Michael Torke		Adjustable Wrench
+Joan Tower		Tres Lent (for cello and piano)
+Vladimir Tsybin	Andante and Tarantella for Flute and Piano
+Heitor Villa-Lobos	Noneto (Impressão rápida de todo o Brasil) (for chorus, flute, oboe, clarinet, saxophone, 
+			bassoon, harp, percussion, celesta and piano)
+Charles-Marie Widor	Suite for Flute and Piano, Op. 34
+Dana Wilson		Musings: An Ode to the Greek Muses (for horn and piano)
+
+
+Chamber with Voice:
+
+Claude Debussy		La romance d'Ariel
+			Musique
+			Apparition
+Gao, Ping		Two Shin-Yu Pai Poems: Dog Story; Elergy
+Paul Hindemith		Cum natus esset
+André Previn		Three Dickinson Songs: As Imperceptibly as Grief; Will There Really Be a Morning?; 
+			Good Morning Midnight
+Erik Satie		Trois Mélodies de 1916: La status de bronze; Daphénéo; La chapelier
+Robert Schumann	Dichterliebe
+Joseph Schwantner	Two Poems of Agueda Pizarro: Shadowinnower; Black Anemones
+Richard Strauss		Zueignung, Op. 10, No. 1, Nichts, Op. 10, No. 2, Die Georgine, Op. 10, No. 4
+			Weisser Jasmin, op. 31, No. 3
+			Ich liebe dich, Op. 37, No. 2
+
+Electro-Acoustic:
+
+For Solo Piano and Electronics:
+
+Milton Babbitt		Reflections
+Christopher Bailey	Balladei
+Burton Beerman	Conversations
+Madelyn Byrne		Northern Flight
+Eric Chasalow		Due (Cinta)mani
+Mario Davidovsky	Synchronisms No. 6
+Charles Dodge		Any Resemblance Is Purely Coincidental
+Jonathan Harvey	Tombeau de Messiaen
+Mara Helmuth		Inchoate Energies
+			Meeting the Free Dreamer
+			Light Descends Into Your Heart
+Pierre Jodlowski	Série Blanche
+			Série Noire
+Cort Lippe		Music for Piano and Computer
+Jennifer B. Merkowitz	In the Key of Light
+James Mobberley	Into the Maelstrom
+			Caution to the Winds
+Luigi Nono		…sofferte onde serene…
+Katharine Norman	Trying to Translate
+Russell Pinkston	TaleSpin
+Heinrich Taube		The Aeolian Harp
+
+
+<h2>For Ensemble and Electronics</h2>
+
+(mostly written for and premiered by NeXT Ens)
+
+Christopher Bailey	The Quiet Play of Busy Pipes
+Burton Beerman	Invisible Images
+Ivica Ico Bukvic	Tabula rasa
+Douglas Geers		Tremor Transducer
+Mara Helmuth		The Edge of Noise
+Paul Koonce		Afterglow
+Paul Lansky		Stroll
+Eric Lyon		Introduction and Allegro
+Ronald Parks		Afterimage 7
+Judith Shatin		El Grito del Corazon
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d18 1
+a18 1
+Frédéric Chopin		Etudes Op. 10 Nos. 3, 4, 5, 7, 8, 9, 10, 12
+d24 2
+a25 1
+Claude Debussy		Etudes: pour les huit doigts, pour les arpèges composés
+d31 1
+a31 1
+Moritz Eggert		Hämmerklavier III "One Man Band"
+@

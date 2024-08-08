@@ -1,0 +1,548 @@
+head	1.20;
+access;
+symbols;
+locks
+	brinkman:1.20; strict;
+comment	@# @;
+
+
+1.20
+date	2010.06.07.03.16.47;	author brinkman;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2010.05.16.18.14.31;	author brinkman;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2010.05.04.00.35.24;	author brinkman;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2010.04.10.23.15.17;	author brinkman;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2010.03.19.04.16.15;	author brinkman;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2010.02.20.16.38.18;	author brinkman;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2009.12.12.16.59.30;	author brinkman;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2009.12.01.17.32.44;	author brinkman;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2009.11.29.17.15.13;	author brinkman;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2009.10.13.15.40.15;	author brinkman;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.10.03.16.43.02;	author brinkman;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.09.10.18.33.38;	author brinkman;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.09.10.18.26.59;	author brinkman;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.09.01.17.00.01;	author brinkman;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.08.13.18.34.02;	author brinkman;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.07.26.22.00.53;	author brinkman;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.06.06.18.00.02;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.06.03.05.35.46;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.31.01.23.05;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.29.17.11.30;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.20
+log
+@*** empty log message ***
+@
+text
+@<h1>Recent Performances</h1>
+
+<ul class="sublinks">
+<li><a href="concerts.html">Upcoming performances</a></li>
+</ul>
+
+<dl class="performances">
+<dt>June 4, 2010, 8:00pm</dt>
+<dd>
+<div><a href="http://www.icmc2010.org/">International Computer Music Conference</a></div>
+<div>Stony Brook University Staller Center, Stony Brook, NY</div>
+<div>Eric Chasalow <cite>Due (Cinta)mani</cite></div>
+</dd>
+<dt>June 2, 2010, 8:00pm</dt>
+<dd>
+<div><a href="http://www.icmc2010.org/">International Computer Music Conference</a></div>
+<div>Columbia University Miller Theatre (2960 Broadway at 116th Street), New York, NY</div>
+<div>Elainie Lillios <cite>Nostalgic Visions</cite>, Madelyn Byrne <cite>Northern Flight</cite>, Allen Strange <cite>Velocity Studies III: RIP</cite></div>
+</dd>
+<dt>June 1, 2010, 8:00pm</dt>
+<dd>
+<div><a href="http://www.icmc2010.org/">International Computer Music Conference</a></div>
+<div>Columbia University Miller Theatre (2960 Broadway at 116th Street), New York, NY</div>
+<div>Krzysztof Wolek <cite>Un Claro Del Tiempo</cite> for soprano, flute and piano</div>
+</dd>
+<dt>May 26, 2010, 7:00pm</dt>
+<dd>
+<div>Recital with violinist Miranda Cuckson</div>
+<div><a href="http://www.chelseaartmuseum.org/events/index.php#dante">Chelsea Art Museum</a> (556 West 22nd St), New York, NY</div>
+<div><cite>Dante Project</cite>: Franz Liszt 
+<cite>Apr&egrave;s une Lecture de Dante - Fantasia quasi Sonata</cite>, Michael Ippolito 
+<cite>Liszt It Is</cite>, Christopher Bailey <cite>To Those Who Would Crush My Will</cite>
+<sup><a href="#wp">*</a></sup></div>
+<div>Mario Davidovsky <cite>Duo Capriccioso</cite>, B&#233;la Bart&#243;k <cite>Sonata for Violin and Piano No. 2</cite></div>
+<div>(General Admission $15, Students/Senior $10, CAM Members free)</div>
+</dd>
+<dt>March 25, 2010, 8:00pm</dt>
+<dd>
+<div>Michael Ippolito's Composition Recital</div>
+<div>Juilliard School Paul Hall, New York, NY</div>
+<div>Michael Ippolito <cite>Liszt It Is</cite></div>
+</dd>
+<dt>March 4, 2010, 8:00pm</dt>
+<dd>
+<div>Solo Recital</div>
+<div>Tetrahedron Concert Hall (Bomastraat 26-28), <a
+href="http://www.logosfoundation.org/">Logos Foundation</a>, Gent,
+Belgium</div>
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite><sup><a href="#bp">&para;</a></sup>
+and <cite>S&eacute;rie Noire</cite>,<sup><a href="#bp">&para;</a></sup> Milton Babbitt
+<cite>Reflections</cite>, Moritz Eggert <cite>One Man Band</cite> and
+<cite>One Man Band 2</cite>, Christopher Bailey <cite>Abstraction
+4</cite><sup><a href="#bp">&para;</a></sup> and <cite>Balladei</cite><sup><a href="#bp">&para;</a></sup></div>
+</dd>
+<dt>February 12, 2010, 7:30pm</dt>
+<dd>
+<div>Solo Recital</div>
+<div>Harvard University Memorial Church, Cambridge, MA</div>
+<div>Scriabin <cite>Etude in D-flat Major Op. 8 No. 10</cite>, Ligeti <cite>Etude 10: Der 
+Zauberlehrling</cite>, Debussy <cite>Prelude: Les collines d'Anacapri</cite>, Ravel <cite>Gaspard de la nuit</cite>, Carter <cite>Two Thoughts About The Piano: Intermittences, Cat&eacute;naires</cite>, Roussel <cite>Tois pi&egrave;ces Op. 49</cite>, Golijov <cite>Levante</cite>, Shostakovich <cite>Prelude and Fugue in B Major Op. 87 No. 11</cite>, Martin Max Schreiner <cite>Nocturne</cite></div>
+</dd>
+<dt>December 8, 2009, 8:00pm</dt>
+<dd>
+<div>XL: Rob Voisey's 40th Birthday Concert</div>
+<div>Chris & St. Stephen's Episcopal Church (120 W 69th St.), New York, NY</div>
+<div>Robert Voisey <cite>Dos Palabras</cite> for piano and soprano, Moritz Eggert <cite>Holly Golightly is surprised by a thunderstorm while singing on the emergency 
+stairs of her New York apartment</cite>, Serban Nichifor <cite>Waltz</cite>, Douglas DaSilva 
+<cite>Abyssinian 40</cite>, Gene Pritsker <cite>Variation on a Theme by Rob Voisey</cite>, Alon 
+Nechushtan <cite>Before the gates of chaos</cite>, John G. 
+Bilotta <cite>Too Old To Die Young</cite>, David Wolfson <cite>Fortitude</cite>, Jane Wang <cite>Over 
+the hill?</cite>, David Hahn <cite>NotantoN</cite>, Paul Burnell <cite>Breathing Together</cite>, Jordan Nobles <cite>exel</cite>, Jay C. Batzner <cite>Voiseynvention</cite>, Margaret Ann 
+Schedel <cite>Textured Variations</cite>, Rodney Waschka II <cite>40 For Rob</cite>, B. Belet 
+<cite>ReV40</cite></div>
+</dd>
+<dt>November 30, 2009, 8:00pm</dt>
+<dd>
+<div>Juilliard composition students concert</div>
+<div>Juilliard School Paul Hall, New York, NY</div>
+<div>Michael Ippolito <cite>Liszt It Is</cite><sup><a href="#wp">*</a></sup></div>
+</dd>
+<dt>November 6, 2009, 1:30pm</dt>
+<dd>
+<div>Solo Recital</div>
+<div>Hong Kong Baptist University LT3, Hong Kong</div>
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite> and <cite>S&eacute;rie Noire</cite>, Christopher Bailey <cite>Untitled 1994/96</cite>,<sup><a href="#asp">||</a></sup> Milton Babbitt <cite>Reflections</cite>, Miyuki Ito <cite>Non-Color Color</cite>, Moritz Eggert <cite>One Man Band</cite> and <cite>One Man Band 2</cite></div>
+</dd>
+<dt>October 28, 2009, 7:00pm</dt>
+<dd>
+<div>Solo Recital, Sizihwan Art Festival</div>
+<div>National Sun Yat-Sen University (70 Lienhai Road), Kaohsiung, Taiwan </div>
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite><sup><a href="#asp">||</a></sup>
+and <cite>S&eacute;rie Noire</cite>,<sup><a href="#asp">||</a></sup> Milton Babbitt
+<cite>Reflections</cite>, Brian Ferneyhough <cite>Lemma-Icon-Epigram</cite>, Moritz Eggert <cite>One Man Band</cite><sup><a href="#asp">||</a></sup> and
+<cite>One Man Band 2</cite><sup><a href="#asp">||</a></sup></div>
+</dd>
+<dt>October 7, 2009, 8:00pm</dt>
+<dd>
+<div>Solo Recital of Music for Piano and Electronics, supported by the Cornell Council for the Arts</div>
+<div>Cornell University Barnes Hall, Ithaca, NY</div>
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite> and <cite>S&eacute;rie Noire</cite>, Moritz Eggert <cite>One Man Band 2</cite>, Milton Babbitt
+<cite>Reflections</cite>, Christopher Bailey <cite>Untitled 1994/96</cite> and <cite>Balladei</cite></div>
+</dd>
+<dt>September 27, 2009, 1:00pm</dt>
+<dd>
+<div><a href=http://www.voxnovus.com/">Composer's Voice Concert Series</a>, Vox Novus</div>
+<div>Jan Hus Church (351 E 74th Street), New York, NY</div>
+<div>
+Christopher Bailey <cite>Untitled 1994/96</cite>,<sup><a href="#wp">*</a></sup>
+Moritz Eggert <cite>One Man Band 2</cite><sup><a href="#ap">&dagger;</a></sup>
+</div>
+</dd>
+<dt>August 30, 2009, 1:00pm</dt>
+<dd>
+<div><a href=http://www.voxnovus.com/">Composer's Voice Concert Series</a>, Vox Novus</div>
+<div>Jan Hus Church (351 E 74th Street), New York, NY</div>
+<div>David Morneau <cite>Summer</cite> for piano and voice, Brent Chancellor <cite>Ah Vastedad de Pinos</cite> for piano and voice, Robert Voisey <cite>Dos Palabras</cite> for piano and voice</div>
+</dd>
+<dt>July 23, 2009, 8:00pm</dt>
+<dd>
+<div>Solo Recital, <a href="http://www.yiddish-summer-weimar.de/e_konzerte.htm#23.07.">Other Music
+Festival</a></div>
+<div>Coudray-Saal der Musikschule (Karl-Liebknecht-Stra&szlig;e 1),
+Weimar, Germany</div>
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite><sup><a href="#gp">&sect;</a></sup>
+and <cite>S&eacute;rie Noire</cite>,<sup><a href="#gp">&sect;</a></sup> Moritz Eggert <cite>One Man
+Band</cite>, Christopher Bailey <cite>Balladei</cite>,<sup><a href="#gp">&sect;</a></sup> Charles Dodge
+<cite>Any Resemblance Is Purely Coincidental</cite>, Franz Liszt
+<cite>Apr&egrave;s une lecture de Dante, fantasia quasi una sonata</cite></div>
+</dd>
+<dt>May 31, 2009, 9:00pm</dt>
+<dd>
+<div><a href="http://www.bangonacan.org/marathon/schedule">Bang on a Can
+Marathon</a></div>
+<div>World Financial Center Winter Garden (220 Vesey Street), New York,
+NY</div>
+<div>Moritz Eggert <cite>One Man Band</cite></div>
+</dd>
+<dt>April 12, 2009, 10:45am</dt>
+<dd>
+<div>Solo Recital, Les Matin&eacute;es du Piano</div>
+<div>Salle de l'Institut (Place Sainte Croix), Orl&eacute;ans, France</div>
+<div>Scarlatti <cite>Sonata in D Minor, K. 18</cite>, <cite>Sonata in F
+Minor, L. 187</cite>, and <cite>Sonata in D Minor, K. 141</cite>,
+Debussy <cite>Etude pour les huit doigts</cite> and <cite>Etude pour les
+arp&egrave;ges composes</cite>, Moritz Eggert <cite>H&auml;mmerklavier
+XIX: Hymnen der Welt (Afghanistan bis Zimbabwe)</cite><sup><a
+href="#fp">&Dagger;</a></sup> and <cite>One Man Band</cite>,<sup><a
+href="#fp">&Dagger;</a></sup> Brahms <cite>Variationen und Fuge &uuml;ber ein
+Thema von Georg Friedrich H&auml;ndel</cite>
+</div>
+</dd>
+<dt>April 3, 2009, 3:15pm</dt>
+<dd>
+<div>New York City Electroacoustic Music Festival</div>
+<div>CUNY Graduate Center (365 Fifth Avenue), New York, NY</div>
+<div>Paul Coleman <cite>Gathering</cite> for piano, harp, guitar,
+marimba and electronics</div>
+</dd>
+<dt>February 7, 2009, 8:00pm</dt>
+<dd>
+<div>JUMP (Japan-USA: Musical Perspectives) Concert</div>
+<div>Northeastern University Fenway Center (77 Saint Stephen Street), Boston, MA</div>
+<div>Christopher Bailey <cite>Abstraction 4</cite>, Lyudmila German
+<cite>Dialogues II</cite>, Miyuki Ito <cite>Non-color Color</cite>
+</div>
+</dd>
+<dt>February 7, 2009, 3:00pm</dt>
+<dd>
+<div>Solo Recital</div>
+<div>Harvard University Memorial Church Pusey Room, Cambridge, MA</div>
+<div>Scarlatti <cite>Sonata in D Minor, K. 18</cite>, <cite>Sonata in F
+Minor, L. 187</cite>, and <cite>Sonata in D Minor, K. 141</cite>, Brahms
+<cite>Variationen und Fuge &uuml;ber ein Thema von Georg Friedrich
+H&auml;ndel</cite>, Carson Cooman <cite>Summer Solstice</cite>,
+Christopher Bailey <cite>Abstraction 4</cite>,<sup><a
+href="#wp">*</a></sup> Brian Ferneyhough
+<cite>Lemma-Icon-Epigram</cite>, Moritz Eggert <cite>H&auml;mmerklavier
+XIX: Hymnen der Welt (Afghanistan bis Zimbabwe)</cite>
+</div>
+</dd>
+<dt>January 23, 2009, 8:00pm</dt>
+<dd>
+<div>Duo Recital</div>
+<div>Bates College Olin Arts Center (75 Russell Street), Lewiston, ME</div>
+<div>Christopher Bailey <cite>Balladei</cite>, Moritz Eggert <cite>One Man Band</cite></div>
+</dd>
+<dt>October 10, 2008, 8:00pm</dt>
+<dd>
+<div>Solo Recital, Sonic Explorations</div>
+<div>Cincinnati College-Conservatory of Music Cohen Studio Theater</div>
+<div>Milton Babbitt <cite>Reflections</cite>, Pierre Jodlowski
+<cite>S&eacute;rie Blanche</cite><sup><a href="#ap">&dagger;</a></sup> and
+<cite>S&eacute;rie Noire</cite>, Mara Helmuth <cite>Meeting the Free
+Dreamer</cite> and <cite>Light Descends Into Your Heart</cite>, Brian
+Ferneyhough <cite>Lemma-Icon-Epigram</cite>, Moritz Eggert <cite>One Man
+Band</cite> and <cite>H&auml;mmerklavier XIX: Hymnen der Welt
+(Afghanistan bis Zimbabwe)</cite><sup><a href="#ap">&dagger;</a></sup>
+</div>
+</dd>
+</dl>
+
+<div class="footnote">
+<a name="wp"><sup>*</sup></a>world premiere
+</div>
+<div class="footnote">
+<a name="ap"><sup>&dagger;</sup></a>American premiere
+</div>
+<div class="footnote">
+<a name="fp"><sup>&Dagger;</sup></a>French premiere
+</div>
+<div class="footnote">
+<a name="gp"><sup>&sect;</sup></a>German premiere
+</div>
+<div class="footnote">
+<a name="asp"><sup>||</sup></a>Asian premiere
+</div>
+<div class="footnote">
+<a name="bp"><sup>&para;</sup></a>Belgian premiere
+</div>
+<div class="footnote">
+<a name="tp"><sup>\\</sup></a>Taiwanese premiere
+</div>
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d8 29
+d84 1
+a84 1
+<div>Hong Kong Baptist University LT3, Hong Kong, China</div>
+@
+
+
+1.18
+log
+@*** empty log message ***
+@
+text
+@d56 1
+a56 1
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite> and <cite>S&eacute;rie Noire</cite>, Christopher Bailey <cite>Untitled 1994/96</cite>,<sup><a href="#asp">||</a></sup> Milton Babbitt <cite>Reflections</cite>, Miyuki Ito <cite>Non-Color Color</cite>, Brian Ferneyhough <cite>Lemma-Icon-Epigram</cite>, Moritz Eggert <cite>One Man Band</cite> and <cite>One Man Band 2</cite></div>
+@
+
+
+1.17
+log
+@*** empty log message ***
+@
+text
+@d99 1
+a99 1
+<cite>Apr&egrave;s une lecture du Dante, fantasia quasi una sonata</cite></div>
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@d8 6
+d91 1
+a91 2
+<div>Solo Recital, part of <a
+href="http://www.yiddish-summer-weimar.de/e_konzerte.htm#23.07.">Other Music
+@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@d8 12
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@d8 7
+d174 3
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@d8 13
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@d8 6
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d8 15
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d8 7
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d8 9
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d108 1
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d21 3
+a23 3
+<div>Pierre Jodlowski <cite>S&eacute;rie Blanche</cite><sup><a href="#gp">&Dagger;</a></sup>
+and <cite>S&eacute;rie Noire</cite>,<sup><a href="#gp">&Dagger;</a></sup> Moritz Eggert <cite>One Man
+Band</cite>, Christopher Bailey <cite>Balladei</cite>, Charles Dodge
+d108 8
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d8 6
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d47 1
+a47 1
+<div>Paul Coleman <cite>Gathering</cite> for piano, hapr, guitar,
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d8 13
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d25 2
+a26 2
+href="#fp">***</a></sup> and <cite>One Man Band</cite>,<sup><a
+href="#fp">***</a></sup> Brahms <cite>Variationen und Fuge &uuml;ber ein
+d70 1
+a70 1
+<cite>S&eacute;rie Blanche</cite><sup><a href="#ap">**</a></sup> and
+d75 1
+a75 1
+(Afghanistan bis Zimbabwe)</cite><sup><a href="#ap">**</a></sup>
+d84 1
+a84 1
+<a name="ap"><sup>**</sup></a>American premiere
+d87 1
+a87 1
+<a name="fp"><sup>***</sup></a>French premiere
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d8 8
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+<ul class="replinks">
+@

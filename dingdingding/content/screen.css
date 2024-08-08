@@ -1,0 +1,46 @@
+body {
+  background: #202020 fixed bottom right url(images/portrait.png) no-repeat;
+  color: white;
+}
+
+a {
+  color: silver;
+}
+
+a:hover {
+  color: white;
+}
+
+div#header {
+  height: 185px;
+  background: top left url(images/name.png) no-repeat;
+}
+
+div#navigation {
+  height: 185px;
+  background: top right url(images/ribbon.png) no-repeat;
+}
+
+div#navigation ul {
+  text-align: right;
+}
+
+div#navigation li {
+  display: inline;
+  padding-right: 10px;
+  font-size: 85%;
+}
+
+div#navigation a {
+  text-decoration: none;
+}
+
+div#navigation a:hover {
+  text-decoration: underline;
+}
+
+div#main {
+  margin-left: 4%;
+  margin-right: 340px;
+}
+

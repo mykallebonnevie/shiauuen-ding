@@ -1,0 +1,132 @@
+head	1.4;
+access;
+symbols;
+locks
+	brinkman:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2009.06.21.22.13.49;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.05.31.01.23.05;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.29.07.34.55;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.29.05.12.05;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@<h1>Repertoire</h1>
+
+<ul class="sublinks">
+<li><a href="repertoire.html">Solo</a></li>
+<li><a href="rep_chamber.html">Chamber</a></li>
+<li><a href="rep_next.html">Ensemble with Electronics</a></li>
+</ul>
+
+<h2>Solo Piano with Electronics</h2>
+
+<dl class="pieces">
+<dt>Milton Babbitt</dt>
+<dd>Reflections</dd>
+<dt><a href="http://music.columbia.edu/~chris/">Christopher Bailey</a></dt>
+<dd>Balladei</dd>
+<dt>Burton Beerman</dt>
+<dd>Conversations</dd>
+<dt>Madelyn Byrne</dt>
+<dd>Northern Flight</dd>
+<dt>Eric Chasalow</dt>
+<dd>Due (Cinta)mani</dd>
+<dt>Mario Davidovsky</dt>
+<dd>Synchronisms No. 6</dd>
+<dt>Charles Dodge</dt>
+<dd>Any Resemblance Is Purely Coincidental</dd>
+<dt>Jonathan Harvey</dt>
+<dd>Tombeau de Messiaen</dd>
+<dt>Mara Helmuth</dt>
+<dd>
+<ul>
+<li>Inchoate Energies</li>
+<li>Meeting the Free Dreamer</li>
+<li>Light Descends Into Your Heart</li>
+</ul>
+</dd>
+<dt>Pierre Jodlowski</dt>
+<dd>
+<ul>
+<li>S&eacute;rie Blanche</li>
+<li>S&eacute;rie Noire</li>
+</ul>
+</dd>
+<dt>Cort Lippe</dt>
+<dd>Music for Piano and Computer</dd>
+<dt>James Mobberley</dt>
+<dd>
+<ul>
+<li>Into the Maelstrom</li>
+<li>Caution to the Winds</li>
+</ul>
+</dd>
+<dt>Luigi Nono</dt>
+<dd>... sofferte onde serene...</dd>
+<dt>Katharine Norman</dt>
+<dd>Trying to Translate</dd>
+<dt>Russell Pinkston</dt>
+<dd>TaleSpin</dd>
+<dt>Heinrich Taube</dt>
+<dd>The Aeolian Harp</dd>
+</dl>
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d14 1
+a14 1
+<dt>Christopher Bailey</dt>
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 1
+<ul class="replinks">
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d9 1
+a9 1
+<h1>Solo Piano with Electronics</h1>
+@

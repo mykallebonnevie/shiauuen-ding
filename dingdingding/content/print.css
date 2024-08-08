@@ -1,0 +1,11 @@
+div#header {
+  display: none;
+}
+
+div#navigation {
+  display: none;
+}
+
+ul.sublinks {
+  display: none;
+}

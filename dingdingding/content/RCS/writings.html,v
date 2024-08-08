@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks
+	brinkman:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.06.12.21.55.06;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<h1></h1>
+<dl class="lectures">
+<dt>August 21, 2009, 3:30pm</dt>
+<dd>
+<div>Poster, International Computer Music Conference 2009</div>
+<div>McGill University Schulich School of Music, Montreal, Quebec, Canada</div>
+<div><cite>Rhythmic Practice in Music for Small Ensemble and Tape</cite></div>
+</dd>
+<dl class="articles">
+<div><a href="https://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=548672&fulltextType=RA&fileId=S1355771806001518">Developing a rhythmic performance practice in music for piano and tape</a> in <cite>Organised Sound</cite> 2006, 11: 255-272</div>
+
+<dl class="interview">
+<div><a href="http://www.seamusonline.org/smemb/pdf/06_Oct_Issue_4.pdf">SEAMUS (Society for Electro-Acoustic Music in the United States) newsletter interview with pianist Shiau-uen Ding, Founding Director of NeXT Ens</a>, 2006, 4: 6-7@

@@ -1,0 +1,323 @@
+head	1.13;
+access;
+symbols;
+locks
+	brinkman:1.13; strict;
+comment	@# @;
+
+
+1.13
+date	2009.06.30.18.31.23;	author brinkman;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2009.06.03.06.02.09;	author brinkman;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2009.05.31.17.10.19;	author brinkman;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.05.31.01.18.56;	author brinkman;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.05.31.00.42.46;	author brinkman;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.05.29.07.47.54;	author brinkman;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.05.27.14.48.55;	author brinkman;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.05.27.05.50.05;	author brinkman;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.05.27.05.48.04;	author brinkman;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.05.27.03.01.41;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.05.27.00.48.53;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.27.00.43.32;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.27.00.29.49;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Shiau-uen Ding, pianist</title>
+  <meta name="author" content="Peter Brinkmann"/>
+  <link rel="shortcut icon" href="images/favicon.ico" >
+  <link rel="stylesheet" href="basic.css" type="text/css"/>
+  <link rel="stylesheet" href="screen.css" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="print.css" type="text/css" media="print"/>
+  $extra_style
+  <!--
+    HTML and CSS lovingly hand-crafted with vim, Cheetah, and Python;
+    images and animations created with Inkscape and the GIMP
+  -->
+</head>
+<body>
+  <div id="header">
+    <div id="navigation">
+      <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="bio.html">BIOGRAPHY</a></li>
+        <li><a href="concerts.html">CONCERTS</a></li>
+        <li><a href="repertoire.html">REPERTOIRE</a></li>
+        <li><a href="recordings.html">RECORDINGS</a></li>
+        <li><a href="words.html">WORDS</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="main">
+    $content
+  </div>
+  
+<!-- Google Analytics code -->
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-9142242-1");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+</body>
+</html>
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@d25 1
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d32 12
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d6 1
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d6 4
+a9 2
+  <link rel="stylesheet" href="$style" type="text/css" media="screen"/>
+  <link rel="stylesheet" href="style_print.css" type="text/css" media="print"/>
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d6 1
+a6 1
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen"/>
+d8 4
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a16 1
+        <li><a href="concerts.html">CONCERTS</a></li>
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d6 2
+a7 2
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="style_print.css" type="text/css" media="print" />
+d10 15
+a24 44
+
+<div id="portrait"></div>
+
+<!--
+I realize it's very naughty to use tables for formatting, but with
+tables I got it done in a few minutes, while I still don't see how to
+do it in pure CSS.  If you have any idea how to implement this layout
+without tables, please let me know.
+-->
+
+<div id="toppanel">
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="images/name.png" alt="Shiau-uen Ding"></img>
+    </td>
+    <td width="100%" valign="top">
+      <div id="navigation">
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="bio.html">BIOGRAPHY</a></li>
+          <li><a href="repertoire.html">REPERTOIRE</a></li>
+          <li><a href="concerts.html">CONCERTS</a></li>
+          <li><a href="recordings.html">RECORDINGS</a></li>
+          <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+<table>
+  <tr>
+    <td>
+      <div id="main">
+$content
+      </div>
+    </td>
+    <td width="317px"></td> <!-- empty column separates text from portrait -->
+  </tr>
+</table>
+
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d47 1
+a47 1
+        $content
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+	<title>Shiau-uen Ding, pianist</title>
+d6 2
+a7 2
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="style_print.css" type="text/css" media="print" />
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d21 1
+a21 1
+<table>
+d26 1
+a26 1
+    <td width="100%">
+d29 6
+a34 6
+          <li><a href="index.html">Home</a></li>
+          <li><a href="bio.html">Bio</a></li>
+          <li><a href="repertoire.html">Repertoire</a></li>
+          <li><a href="concerts.html">Concerts</a></li>
+          <li><a href="recordings.html">Recordings</a></li>
+          <li><a href="contact.html">Contact</a></li>
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d7 1
+a7 2
+	<link rel="stylesheet" href="style_print.css" type="text/css"
+  media="print" />
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@a4 1
+	<link rel="stylesheet" href="style.css" type="text/css" charset="utf-8" />
+d6 3
+d21 1
+d41 1
+@

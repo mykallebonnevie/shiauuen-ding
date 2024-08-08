@@ -1,0 +1,273 @@
+head	1.14;
+access;
+symbols;
+locks
+	brinkman:1.14; strict;
+comment	@# @;
+
+
+1.14
+date	2009.10.24.19.40.30;	author brinkman;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2009.06.30.18.31.23;	author brinkman;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2009.06.23.18.26.46;	author brinkman;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2009.06.06.17.39.18;	author brinkman;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.06.03.05.35.46;	author brinkman;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.05.31.20.44.32;	author brinkman;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.05.31.20.41.39;	author brinkman;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.05.31.20.23.10;	author brinkman;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.05.31.05.39.12;	author brinkman;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.05.31.05.36.00;	author brinkman;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.05.31.05.31.30;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.05.31.05.03.54;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.30.22.38.38;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.27.07.03.16;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@WWW = ../www/
+
+all:
+	cp *.css ${WWW}
+	-cp images/*.* ${WWW}/images
+	./generate.py ${WWW} *.html
+
+upload:
+	ncftpput -R -m -u ssding 69.65.33.56 / ../www
+
+backup:
+	make clean
+	cd ../..; tar cvzf dingdingding.tgz dingdingding; \
+		ncftpput -u ssding 69.65.33.56 / dingdingding.tgz
+
+clean:
+	-rm -f ${WWW}/*
+	-rm -f ${WWW}/images/*
+
+checkin:
+	ci -l images/*.* *.* Makefile
+
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@d5 1
+a5 1
+	cp images/*.* ${WWW}/images
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@a5 1
+	cp media/*.* ${WWW}/media
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d6 1
+d13 1
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d8 1
+a8 3
+upload: towhp togate
+
+towhp:
+a10 3
+togate:
+	ncftpput -R -m -u shiauuen 216.185.128.149 /web ../www/*
+
+d21 1
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d8 3
+a10 1
+upload:
+d13 3
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@a10 3
+testupload:
+	scp -r ${WWW}/* brinkman@@sci250.sci.ccny.cuny.edu:public_html/shiauuen
+
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d15 2
+a16 2
+	cd ../..; tar cvzf dingdingding.tgz dingdingding
+	scp ~/dingdingding.tgz brinkman@@allium:
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d19 2
+a20 2
+	rm ${WWW}/*
+	rm ${WWW}/images/*
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+	cd ../..; tar cvzf ~/dingdingding.tgz dingdingding
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d12 1
+a12 2
+	cd ../site; \
+		scp -r *.* images brinkman@@sci250.sci.ccny.cuny.edu:public_html/shiauuen/
+d16 1
+d22 2
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+WWW = ../www
+a3 2
+	rm -rf ${WWW}
+	mkdir ${WWW}
+d5 1
+a5 1
+	cp -r images ${WWW}
+d9 3
+d17 5
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d1 2
+d4 9
+a12 1
+	./generate.py *.html
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 3
+@

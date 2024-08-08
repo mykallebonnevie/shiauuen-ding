@@ -1,0 +1,815 @@
+head	1.39;
+access;
+symbols;
+locks
+	brinkman:1.39; strict;
+comment	@# @;
+
+
+1.39
+date	2010.06.07.03.16.47;	author brinkman;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2010.05.16.19.02.34;	author brinkman;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2010.05.16.18.38.50;	author brinkman;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2010.05.16.18.35.22;	author brinkman;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2010.04.10.23.15.17;	author brinkman;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2010.03.19.04.16.15;	author brinkman;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2010.02.20.16.38.18;	author brinkman;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2010.01.08.17.11.30;	author brinkman;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2009.12.13.19.44.53;	author brinkman;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2009.12.12.16.59.30;	author brinkman;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2009.12.01.17.32.44;	author brinkman;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2009.11.29.17.15.13;	author brinkman;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2009.10.24.19.40.30;	author brinkman;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2009.10.03.16.43.02;	author brinkman;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2009.09.01.17.00.01;	author brinkman;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2009.08.24.02.33.43;	author brinkman;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2009.07.26.23.15.23;	author brinkman;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2009.07.26.22.00.53;	author brinkman;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2009.07.02.22.38.12;	author brinkman;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2009.06.06.18.00.02;	author brinkman;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2009.06.06.17.41.44;	author brinkman;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2009.06.04.05.57.23;	author brinkman;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2009.06.04.00.02.26;	author brinkman;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2009.06.03.22.46.37;	author brinkman;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2009.06.03.05.45.40;	author brinkman;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2009.06.03.05.43.16;	author brinkman;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2009.06.03.05.41.38;	author brinkman;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2009.06.03.05.39.19;	author brinkman;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2009.06.03.05.35.46;	author brinkman;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.05.31.01.44.28;	author brinkman;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.05.30.21.53.30;	author brinkman;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.05.29.07.43.44;	author brinkman;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.05.29.07.34.55;	author brinkman;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.05.29.07.02.32;	author brinkman;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.05.27.06.59.45;	author brinkman;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.05.27.05.46.40;	author brinkman;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.05.27.05.38.26;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.27.05.08.04;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.27.05.06.31;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.39
+log
+@*** empty log message ***
+@
+text
+@<p><a href="http://www.icmc2010.org/">The <cite>International Computer Music Conference 2010</cite></a> 
+went successfully and smoothly on June 1-5. Kudos to <a href="http://www.schedel.net/">Margaret Schedel
+</a> and Dan Weymouth! I had a tremendous pleasure working with <a href="http://www.krzysztofwolek.com/">Krzysztof Wolek</a>, <a href="http://www.elillios.com">Elainie Lillios</a>, 
+<a href="http://www.madelynbyrne.com/">Madelyn Byrne</a>, and <a href="http://www.ericchasalow.com/">Eric 
+Chasalow</a>, and performed Allen Strange's <cite>Velocity Studies III: Rip</cite>!</p>
+
+<p>Now enjoying a relaxing summer and looking forward to a new season in September!</p>
+
+<p>~Shiau-uen</p>
+
+@
+
+
+1.38
+log
+@*** empty log message ***
+@
+text
+@d1 5
+a5 7
+<p><a href="http://www.chelseaartmuseum.org/events/index.php#dante">The Dante
+Project Premiere Concert</a> is coming soon!  It consists of works by Mario
+Davidovsky, <a href="http://music.columbia.edu/~chris/">Christopher
+Bailey</a>, <a href="http://michaelippolito.com/">Michael Ippolito</a>, Franz
+Liszt, and B&#233;la Bart&#243;k.  The fabulous violinist <a
+href="http://www.myspace.com/mirandacuckson">Miranda Cuckson</a> will join me.
+</p>
+d7 1
+a7 1
+<p>The concert is on Wednesday, May 26 at 7pm, presented by <a href="http://chelseaartmuseum.org/">The Chelsea Art Museum</a> (556 W 22nd, NYC). I'm looking forward to the concert, and hope to see you there! General Admission is $15, Students/Senior $10, CAM Members free.</p>
+a10 6
+
+<div class="image">
+<img src="images/postcard_front.jpg"
+height="369" width="554"
+title="Dante at CAM"/>
+</div>
+@
+
+
+1.37
+log
+@*** empty log message ***
+@
+text
+@d9 1
+a9 1
+<p>The concert is on Wednesday, May 26 at 7pm, presented by <a href="http://chelseaartmuseum.org/">The Chelsea Art Museum</a> (556 W 22nd, NYC). I'm looking forward to the concert, and hope to see you there! General Admission is $ 15, Students/ Senior $ 10, CAM Members free.</p>
+@
+
+
+1.36
+log
+@*** empty log message ***
+@
+text
+@d1 7
+a7 1
+<p><a href="http://www.chelseaartmuseum.org/events/index.php#dante">The Dante Project Premiere Concert</a> is coming soon! It's joined by the fabulous violinist <a href="http://www.myspace.com/mirandacuckson">Miranda Cuckson</a>, and consists of works by Mario Davidovsky, <a href="http://music.columbia.edu/~chris/">Christopher Bailey</a>, <a href="http://michaelippolito.com/">Michael Ippolito</a>, Franz Liszt, and B&#233;la Bart&#243;k.</p>
+@
+
+
+1.35
+log
+@*** empty log message ***
+@
+text
+@d1 3
+a3 1
+<p>My performance of Liszt It Is by <a href="http://michaelippolito.com/">Michael Ippolito</a> on March 26 went very well, and I'm looking forward to playing it again with other works in my Dante project at CAM on May 26. It's kind of hard to stay indoors and practice though because it's been gorgeous outside. Spring is here!</p>
+d9 3
+a11 4
+<img src="images/spring.jpg"
+height="403" width="302"
+title="picture taken by Tomoko"
+alt="spring in Central Park"/>
+@
+
+
+1.34
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 3
+<p>Dear Friends, I had a fabulous time in Belgium, meeting interesting people and performing at <a href="http://www.logosfoundation.org/">The Logos</a>, and drinking dainty beers at Zythos, the largest Belgian beer festival in Sint-Niklaas!</p>
+
+<p>On May 26, I'm performing <cite>Liszt It Is</cite> by young, talented composer <a href="http://michaelippolito.com/index/Home.html">Michael Ippolito</a>, a work commissioned by me, in his composition recital at Juilliard School's Paul Hall. Come see me play and scream!</p>
+d7 4
+a10 3
+<img src="images/Logos.jpg"
+height="450" width="600"
+alt="after concert at Logos"/>
+@
+
+
+1.33
+log
+@*** empty log message ***
+@
+text
+@d1 3
+a3 1
+<p>Dear Friends, I'll be playing a concert in Ghent, Belgium, at the Logos Tetrahedron Concert Hall on Thursday, March 4, 8pm. <a href="http://www.logosfoundation.org/">The Logos</a> produces a lot of fascinating activities, including musical robots with dancers. Check it out and join us on an exciting musical ride!</p>
+d7 6
+a12 1
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/LoZW3jEBoMw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LoZW3jEBoMw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>@
+
+
+1.32
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<p>I wish you a new year full of happiness, good health and prosperity!</p>
+@
+
+
+1.31
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 3
+<p>Happy holidays! Lots of people are traveling during this holiday season, and I'm doing the same. I'll be in Cincinnati, where I went to graduate school, visiting old friends from Dec. 17-22, and then head to Maryland, celebrating X'mas with my uncle's family!</p>
+
+<p>I also would like to let you know that my performance of One Man Band 2 by Moritz Eggert is now on YouTube. Check it out!
+@
+
+
+1.30
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 1
+<p>At the same time, I would love to share with you the latest video recording of my performance of One Man Band 2 by Moritz Eggert. Click on the photo and check out the video!
+d7 1
+a7 5
+<a href="http://shiauuending.com/media/One_Man_Band_2.mp4">
+<img src="images/NSYSU_OMB_2.gif"
+height="484" width="324"
+alt="One Man Band 2 at Sizihwan Art Festival"/>
+</a>@
+
+
+1.29
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 2
+<p>Rob Voisey is going on 40 on December 8! Happy Birthday, Rob! There'll be a concert celebrating this 
+beloved composer with his own music and pieces written/dedicated to Rob and this occasion (some dedicated to me as well :-), and I'm honoured to be part of it.</p>
+d3 1
+a3 6
+<p>I'll be playing Rob's Dos Palabras with acclaimed soprano Beth Griffith, and fifteen one-
+minute pieces by Moritz Eggert, Serban Nichifor, Douglas DaSilva, Gene Pritsker, Alon Nechushtan, John G. 
+Bilotta, David Wolfson, Jane Wang, David Hahn, Paul Burnell, Liana Alexandra, Jay C. Batzner, Margaret Ann 
+Schedel, Rodney Waschka II, and B. Belet.</p>
+
+<p>Come to Christ & St. Stephen's Church (120 W 69th) on Tuesday, December 8, 8:00 pm, and have a blast!</p>
+d7 5
+a11 5
+<div class="image">
+<img src="images/RobVoisey.jpg"
+height="302" width="300"
+alt="Rob's going on 40"/>
+</div>
+@
+
+
+1.28
+log
+@*** empty log message ***
+@
+text
+@d1 9
+a9 1
+<p>Dear friends, I had a successful Asia trip, which was full of wonderful food! Now I'm back in NYC, and will premiere the fabulous young composer <a href="http://michaelippolito.com/">Michael Ippolito</a>'s <cite>Liszt It Is</cite> in a concert in Paul Hall, Juilliard School, Monday, November 30, starting at 8pm. Come watch this fun piece!</p>
+d14 3
+a16 3
+<img src="images/NSYSU_poster.jpg"
+height="567" width="400"
+alt="Sizihwan Art Festival concert poster"/>
+@
+
+
+1.27
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<p>Dear friends, I'm going on an Asian trip tomorrow, the stops including Taiwan, Hong Kong and China. I will perform music by Chris Bailey, Miyuki Ito, Moritz Eggert, Milton Babbitt, Pierre Jodlowski and Brian Ferneyhough, as well as talk about contemporary piano music! Looking forward to this trip and my first time to Hong Kong and China. Hope to see you in one or all of them!</p>
+d6 3
+a8 3
+<img src="images/Sizihwan.jpg"
+height="762.5" width="400"
+alt="Sizihwan Art Festival poster"/>
+@
+
+
+1.26
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<p>Dear friends, soon after performing the world premiere of <a href="http://music.columbia.edu/~chris/">Chris Bailey</a>'s <cite>Untitled 1994/96</cite> and the American premiere of <a href="http://moritzeggert.de/">Moritz Eggert</a>'s <cite>One Man Band 2</cite> at the Composer's Voice concert, I'll perform them again along with Chris Bailey's <cite>Balladei</cite>, Pierre Jodlowsky's <cite>S&eacute;rie Blanche</cite> and <cite>S&eacute;rie Noire</cite>, and Milton Babbitt's <cite>Reflections</cite> on Wednesday at Cornell University. Come if you are around Ithaca!</p>
+d6 3
+a8 2
+<img src="images/cornell.jpg" title="picture taken by Peter Brinkmann, poster designed by Christopher Stark"
+alt="cornell poster"/>
+@
+
+
+1.25
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<p>Dear friends, I had a great time performing at Composer's Voice Concert at Jan Hus Sanctuary and enjoyed all the music presented! Next month, on September 27, Sunday, 1:00 pm, I'll do the world premiere of Chris Bailey's <cite>Untitled 1994/96</cite> and the American premiere of Moritz Eggert's <cite>One Man Band 2</cite> in the same concert series. Curious to see what a pianist might do? Come watch! The concert is free! Jan Hus Sanctuary is located at 351 E 74th St, near 1st Ave.</p>
+d6 2
+a7 3
+<img src="images/ICMC.jpg"
+alt="Shiau-uen at poster"/>
+<div>in front of my ICMC poster with Dr. Mara Helmuth, President of ICMA and my doctoral thesis advisor</div>
+@
+
+
+1.24
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 3
+<p>Dear friends, so glad to see many of you at <a href="http://icmc2009.org/">ICMC</a> (International Computer Music Conference) in Montreal! It was a good time! For those of you whom I missed, at ICMC this year I presented a poster - <cite>Rhythmic Practice in Music for Small Ensemble and Tape</cite> - and controlled the computer patches for Doug Geers's piece in concert, Tremor Transducer, commissioned by NeXT Ens, my old ensemble, in 2004.</p>
+
+<p>Now I'm back in New York, preparing for the performance of music by Rob Voisey, David Morneau and Brent Chancellor at Composer's Voice Concert on August 30, 1pm, at Jan Hus Sanctuary (351 E 74th St, near 1st Ave). Come and enjoy this concert! It's free!</p>
+d8 1
+a8 1
+<div>in front of my poster with Dr. Mara Helmuth, President of ICMA and my doctoral thesis advisor</div>
+@
+
+
+1.23
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 7
+<p>Dear friends, attending Yiddish Summer Weimar was a precious
+experience! There gathered the best East European folk
+musicians/teachers beyond belief. I learned lots of lautari and klezmer
+tunes and some accordion technique. Now I'm back in New York to practice
+on my own. If you see <a href="http://michaelippolito.com/">Michael
+Ippolito</a> and me playing an accordion duo in Central Park, please
+stop by and say hi!</p>
+d3 1
+a3 4
+<p>My trip in Weimar was concluded with a solo recital of old and new,
+purely acoustic and electroacoustic piano repertoire at the 1st Other
+Music Festival. The audience was enthusiastic about the unfamiliar and I
+had a blast playing for them!</p>
+d8 3
+a10 3
+<img src="images/weimar.jpg" title="picture taken by Peter Brinkmann"
+alt="Shiau-uen in 1st other music festival in Weimar"/>
+<div>Performing in 1st other music festival in Weimar</div>
+@
+
+
+1.22
+log
+@*** empty log message ***
+@
+text
+@d7 1
+a7 1
+stop by and say hi!
+d9 1
+a9 1
+My trip in Weimar was concluded with a solo recital of old and new,
+@
+
+
+1.21
+log
+@*** empty log message ***
+@
+text
+@d1 12
+a12 10
+<p>Dear friends, some recordings are up on the website, as well as my
+lecture schedule. More to come later! Now I'm packing for my first trip
+this summer - to
+<a href="http://www.yiddish-summer-weimar.de/e_home.php">Yiddish Summer
+Weimar</a>, where I'll participate in the Instrumental and Dance
+Workshops, playing the accordion, and round it up with performing a
+concert at the
+<a href="http://www.yiddish-summer-weimar.de/e_konzerte.htm">1st Other
+Music Festival</a> on July 23rd. See you in Weimar over German
+beer!</p>
+d17 3
+a19 3
+<img src="images/boac.jpg" title="picture taken by Peter Brinkmann"
+alt="Shiau-uen in Bang on a Can Marathon"/>
+<div>Performing in Bang on a Can Marathon</div>
+@
+
+
+1.20
+log
+@*** empty log message ***
+@
+text
+@d1 10
+a10 3
+<p>Dear friends, welcome to my freshly made page (huge thanks to Peter
+Brinkmann, who made it happen while making me cocktails)! Please look
+around and check me out. Write to me if you like!</p>
+a13 20
+<h2>Latest news</h2>
+
+<p>Recently I had the honor of performing in <a
+href="http://www.bangonacan.org/marathon/schedule">Bang on a Can
+Marathon</a> in front of an audience of two thousand. My performance of
+<a href="http://www.moritzeggert.de/">Moritz Eggert</a>'s
+<cite>One Man Band</cite> was mentioned in the <a
+href="http://www.nytimes.com/2009/06/02/arts/music/02bang.html">New York
+Times</a>!
+
+<blockquote>Germany had a striking entry as well, in the pianist
+Shiau-uen Ding's daredevil account of Moritz Eggert's
+<q>H&auml;mmerklavier III: One Man Band,</q> a piece that requires a
+pianist to beat on almost every surface of the instrument (sometimes
+while playing the keyboard), as well as stamp, sing and hit bass notes
+with her left foot.</blockquote>
+
+(Michael Fiday: I read the review...didn't realize Shiau-uen was
+German!)</p>
+
+@
+
+
+1.19
+log
+@*** empty log message ***
+@
+text
+@d28 2
+a29 1
+<img src="images/boac.jpg" alt="Performing in Bang on a Can Marathon (picture taken by Peter Brinkmann)"/>
+@
+
+
+1.18
+log
+@*** empty log message ***
+@
+text
+@d28 1
+a28 1
+<img src="images/boac.jpg" alt="Performing in Bang on a Can Marathon"/>
+@
+
+
+1.17
+log
+@*** empty log message ***
+@
+text
+@d12 2
+a13 2
+<a href="http://www.moritzeggert.de/">Moritz Eggert</a>'s One Man Band
+was mentioned in the <a
+@
+
+
+1.16
+log
+@*** empty log message ***
+@
+text
+@d26 5
+@
+
+
+1.15
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 2
+around and check me out. Write to me if you like! (I only take
+compliments, thank you ;)</p>
+@
+
+
+1.14
+log
+@*** empty log message ***
+@
+text
+@d16 1
+a16 1
+Times</a>!</p>
+d26 1
+a26 1
+German!)
+@
+
+
+1.13
+log
+@*** empty log message ***
+@
+text
+@d25 2
+a26 2
+<p>(Michael Fiday: <q>I read the review...didn't realize Shiau-uen was
+German!)</q></p>
+@
+
+
+1.12
+log
+@*** empty log message ***
+@
+text
+@d25 2
+a26 2
+<p>(Michael Fiday: I read the review...didn't realize Shiau-uen was
+German!)</p>
+@
+
+
+1.11
+log
+@*** empty log message ***
+@
+text
+@d20 1
+a20 1
+<q>H&auml;mmerklavier III: One Man Band,<q> a piece that requires a
+d23 1
+a23 1
+  with her left foot.</blockquote>
+@
+
+
+1.10
+log
+@*** empty log message ***
+@
+text
+@d3 3
+a5 7
+around and check me out. Write to me if you like.  (I only take
+compliments, thank you ;)  If you live in NYC or happen to be visiting
+this fantastic city, come to <cite><a
+href="http://www.bangonacan.org/marathon">Bang on a Can
+Marathon</a></cite> (FREE!) on May 31, 12pm-12am and watch me hit my
+chin and scratch my fingertips in the performance of Moritz Eggert's
+<cite>One Man Band</cite> around 9pm!</p>
+d7 20
+@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@d3 2
+a4 2
+around and check me out. Write to me if you like (I only take
+compliments, thank you;).  If you live in NYC or happen to be visiting
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d4 1
+a4 1
+compliments, thank you).  If you live in NYC or happen to be visiting
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 1
+around and check me out. Write to me as you like (I only take
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d1 4
+a4 4
+<p>Dear friends, welcome to my freshly made page! (Huge thanks to Peter
+Brinkmann, who made it happen while making me cocktails.) Please look
+around and check me out. Write to me as you like. (I only take
+compliments, thank you.) If you live in NYC or happen to be visiting
+d8 2
+a9 2
+chin and scratch my fingertips in the performance of Moritz Eggert's One
+Man Band around 9pm!</p>
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d1 9
+a9 11
+<h1>Welcome!</h1>
+
+<p>Dear friends, welcome to my freshly-made page (huge thanks to Peter
+Brinkmann, who made it happen while making cocktails at the same
+time)!  Please look around and check me out. Write to me as you like (I
+only take compliments, thank you). If you live in NYC or happen to
+visit this fantastic city, come to <cite><a
+href="http://www.bangonacan.org/marathon">Bang on a Can Marathon</a></cite>
+(FREE!) on May 31, 12pm-12am, and watch me hit my chin and scratch my
+fingertips in the performance of Moritz Eggert's <cite>One Man
+Band</cite> around 9pm!</p>
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d11 1
+a11 1
+Band</cite> around 9 pm!</p>
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d3 1
+a3 1
+<p>Dear friends, welcome to my freshly made page (huge thanks to Peter
+d6 6
+a11 4
+only take compliments, thank you.). If you live in NYC or happen to
+visit this fantastic city, come to Bang on a Can Marathon (FREE!) on May
+31, 12pm-12am and watch me hitting my chin and scratch my fingertips in
+performance of Moritz Eggert's One Man Band around 9 pm!</p>
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d1 2
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 1
+a2 1
+Brinkmann, who made it happen while making my cocktails at the same
+@

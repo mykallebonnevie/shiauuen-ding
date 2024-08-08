@@ -1,0 +1,113 @@
+head	1.2;
+access;
+symbols;
+locks
+	brinkman:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2009.06.04.00.02.26;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.31.04.59.49;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@body {
+  font-family: Geneva, sans-serif;
+}
+
+img {
+  border: 0;
+}
+
+h1, h2, h3 {
+  font-style: italic;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: large;
+  margin-bottom: 1em;
+}
+
+h2 {
+  margin-top: 2em;
+  font-size: medium;
+}
+
+h3 {
+  font-size: small;
+}
+
+div#main {
+  font-size: small;
+}
+
+div#main p:first-letter {
+  font-style: italic;
+  font-size: medium;
+}
+
+dl.pieces dd {
+  font-style: italic;
+}
+
+dl.pieces dd ul {
+  margin: 0;
+  padding: 0;
+}
+
+dl.pieces dd ul li {
+  list-style-type: none;
+}
+
+div.footnote {
+  font-size: x-small;
+}
+
+dl.performances dd {
+  margin-bottom: 1em;
+}
+
+dl.contacts dd {
+  margin-bottom: 1em;
+}
+
+ul.sublinks {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+sup a {
+  text-decoration: none;
+}
+
+div.image {
+  margin-top: 2em;
+  text-align: center;
+}
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d72 4
+@

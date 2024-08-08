@@ -1,0 +1,102 @@
+head	1.3;
+access;
+symbols;
+locks
+	brinkman:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2009.06.30.18.31.23;	author brinkman;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.05.31.20.38.28;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.31.04.59.49;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@body {
+  background: #202020 fixed bottom right url(images/portrait.png) no-repeat;
+  color: white;
+}
+
+a {
+  color: silver;
+}
+
+a:hover {
+  color: white;
+}
+
+div#header {
+  height: 185px;
+  background: top left url(images/name.png) no-repeat;
+}
+
+div#navigation {
+  height: 185px;
+  background: top right url(images/ribbon.png) no-repeat;
+}
+
+div#navigation ul {
+  text-align: right;
+}
+
+div#navigation li {
+  display: inline;
+  padding-right: 10px;
+  font-size: 85%;
+}
+
+div#navigation a {
+  text-decoration: none;
+}
+
+div#navigation a:hover {
+  text-decoration: underline;
+}
+
+div#main {
+  margin-left: 4%;
+  margin-right: 340px;
+}
+
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d30 1
+a30 1
+  padding-right: 18px;
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d43 1
+a43 1
+  margin-left: 30px;
+@

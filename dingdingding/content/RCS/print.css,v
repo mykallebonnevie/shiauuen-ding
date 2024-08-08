@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks
+	brinkman:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.05.31.04.59.49;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@div#header {
+  display: none;
+}
+
+div#navigation {
+  display: none;
+}
+
+ul.sublinks {
+  display: none;
+}
+@

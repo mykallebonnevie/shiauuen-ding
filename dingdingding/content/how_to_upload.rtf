@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10040\viewh12880\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \
+cd Documents/dingdingding/content\
+\
+make\
+\
+	(see stuff in the home directory)\
+	open -a Safari ../www/index.html\
+\
+sftp ssding@shiauuending.com\
+(enter password)\
+\
+cd www\
+lcd ../www\
+\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+(full update)\
+put -r .\
+quit\
+\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+(Updating individual bits)\
+\
+(update html files)\
+put *.html\
+\
+\
+(update style sheet)\
+put *.css\
+\
+\
+(update images)\
+lcd images\
+cd images\
+put *\
+cd ..\
+lcd ..\
+(end update images)\
+\
+(update media)\
+lcd media\
+cd media\
+put *\
+cd ..\
+lcd ..\
+(end update media)\
+\
+quit\
+}

@@ -1,0 +1,76 @@
+head	1.2;
+access;
+symbols;
+locks
+	brinkman:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2009.05.26.23.01.21;	author brinkman;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.26.22.59.30;	author brinkman;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@<h1>Biography</h1>
+
+<p>A native of Taiwan, pianist Shiau-uen Ding is a rising presence on the
+new and electro-acoustic music scenes, an original and energetic
+performer of traditional solo and chamber repertoire, and founding
+director of NeXT Ens, an ensemble dedicated to commissioning and
+performing live electro-acoustic music. She studied piano with Eugene
+Pridonoff, Elizabeth Pridonoff, and Lina Yeh, computer music with Mara
+Helmuth and Christopher Bailey, and contemporary improvisation with Alan
+Bern at National Taiwan Normal University and University of Cincinnati,
+where she received her doctoral degree.</p>
+
+<p>She has performed in France and throughout the US and Taiwan. Her
+virtuosic and sensitive interpretations have won standing ovations, and
+she was called <q>a powerful force on the new music scene</q> by Array for
+her performance at Spark Festival in Minneapolis. She was a semifinalist
+in both International Gaudeamus Interpreters Competition in Amsterdam
+and Concours International de Piano d'Orl&eacute;ans. She has collaborated
+with internationally renowned performers and composers, including Steve
+Reich, Michael Kugel, George Tsontakis, who refers to her performance of
+his Ghost Variations as a <q>monster performance,</q> and Moritz Eggert, who
+dedicated his <q>H&auml;mmerklavier XIX: Hymnen der Welt (Afghanistan bis
+Zimbabwe)</q> to her. In addition, new compositions have been written for
+her by Mara Helmuth, Christopher Bailey, Eric Lyon, Burton Beerman, and
+Naxos artist Gao Ping. She has recorded for Capstone, Centaur, Innova
+and Electric Music Collective.</p>
+
+<p>As an advocate of performing works with electronics and multimedia,
+she has lectured at universities in the US and Taiwan, and her article
+Developing a Rhythmic Performance Practice in Music for Piano and Tape
+was published in Organised Sound.</p>
+
+<p>Please visit
+<a href="http://www.myspace.com/shiauuending">
+http://www.myspace.com/shiauuending</a>
+for some of her recordings.</p>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+<h1>Shiau-uen Ding Biography</h1>
+@
